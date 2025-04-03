@@ -51,7 +51,7 @@ This project was inspired by a similar [project](https://github.com/AbnormalDist
 
 ### Setup Guide
 1. **Customize the Government of Canada's Meteorological Service of Canada API URL**:
-    Go to the [documentation directory](https://dd.weather.gc.ca/citypage_weather/docs/) of the MSC City Page Weather XML feed to find the city code for your location (e.g., s0000458 for Toronto). It should be available in the site_list_en.csv file. Then, plug the 2 letter province abbreviation (e.g., ON for Ontario) followed by the city code into the XML weather data file: (https://dd.weather.gc.ca/citypage_weather/xml/XX/XXXXXXXX.xml)     
+    Go to the [documentation directory](https://dd.weather.gc.ca/citypage_weather/docs/) of the MSC City Page Weather XML feed to find the city code for your location (e.g., s0000458 for Toronto). It should be available in the site_list_en.csv file. Then, plug the 2 letter province abbreviation (e.g., ON for Ontario) followed by the city code into the XML weather data file: `https://dd.weather.gc.ca/citypage_weather/xml/XX/XXXXXXXX.xml`   
 
 2. **Customize Your Settings**:
    Edit the following user-defined settings at the top of `weather_dashboard.py`:
