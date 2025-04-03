@@ -56,7 +56,7 @@ This project was inspired by a similar [project](https://github.com/AbnormalDist
 2. **Customize Your Settings**:
    Edit the following user-defined settings at the top of `weather_dashboard.py`:
    - `BASE_URL`: the XML weather data file link from the above step
-   - `LOCATION`: Name of the location to display (e.g., `Toronto``).
+   - `LOCATION`: Name of the location to display (e.g., `Toronto`).
    - `CSV_OPTION`: Set this to `True` if you’d like to save a daily log of weather data in `records.csv`.
 
 > **Note**: If you are not using a 7.5 inch Version 2 display, you will want to replace 'epd7in5_V2.py' in the 'lib' folder with the appropriate version from [Waveshare's e-Paper library](https://github.com/waveshare/e-Paper/tree/master/RaspberryPi_JetsonNano/python/lib/waveshare_epd). Adjustments will be required for other screen sizes.
