@@ -4,8 +4,8 @@
 
 This project uses a Rapsberry Pi along with an 7.5 inch e-paper display by Waveshare to provide weather data in form of a dashboard that includes current weather conditions, daily and hourly forecast as well as any active alerts in the selected area. This project was inspired by a similar [project]("https://github.com/AbnormalDistributions/e_paper_weather_display") that used OpenWeatherMap API. Unfortunately, after updating the code to suit my needs (you can find the fork of the original project [here]("https://github.com/vbageek14/waveshare_eink_weather_dashboard"), I wasn't getting accurate weather datafrom OpenWeatherMap API in my region. Thus, I decided to look for another API and landed on the Government of Canada public API that offers weather data in XML format. It is provided by Environment and Climate Change Canada (ECCC) as part of their Meteorological Service of Canada (MSC) branch. For more information about this API, please consult this [website]("https://eccc-msc.github.io/open-data/msc-datamart/readme_en/").
 
-![Front]
-![Back]
+![Front]("https://github.com/vbageek14/waveshare_eink_weather_dashboard_gc/blob/main/photos/RaspberryPi_ePaper_Weather_Display_Front.jpeg")
+![Back]("https://github.com/vbageek14/waveshare_eink_weather_dashboard_gc/blob/main/photos/RaspberryPi_ePaper_Weather_Display_Back.jpeg")
 
 ---
 
@@ -36,8 +36,13 @@ This project uses a Rapsberry Pi along with an 7.5 inch e-paper display by Waves
    git clone https://github.com/vbageek14/waveshare_eink_weather_dashboard.git
    cd waveshare_eink_weather_dashboard
    ```
+2. **Clone the e-Paper library**:
+   This project requires the Waveshare e-Paper library. Clone it into the project library by running:
+   ```bash
+   git clone https://github.com/waveshare/e-Paper.git
+   ```
 
-2. **Install Python Libraries**:
+3. **Install Python Libraries**:
    ```bash
    pip install pillow requests
    ```
