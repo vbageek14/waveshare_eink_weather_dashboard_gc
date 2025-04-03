@@ -1,0 +1,6 @@
+
+.DS_Store
+e-Paper/
+config_private.py
+current_conditions_records.csv
+hourly_forecast_records.csv

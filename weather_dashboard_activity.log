@@ -1,0 +1,2831 @@
+<<<<<<< HEAD
+/usr/bin/python3: can't open file '/home/konstipi/waveshare_eink_weather_dashboard_gc/weather_dashboard.py': [Errno 2] No such file or directory
+=======
+2025-03-31 14:00:07 - INFO - Weather display script started.
+2025-03-31 14:00:07 - INFO - Weather display script started.
+2025-03-31 14:00:08 - INFO - Weather data fetched successfully.
+2025-03-31 14:00:08 - INFO - Weather data fetched successfully.
+2025-03-31 14:00:08 - INFO - Weather data processed successfully.
+2025-03-31 14:00:08 - INFO - Weather data processed successfully.
+2025-03-31 14:00:08 - INFO - Current data appended to CSV.
+2025-03-31 14:00:08 - INFO - Current data appended to CSV.
+2025-03-31 14:00:08 - INFO - Hourly forecast data appeneded to CSV.
+2025-03-31 14:00:08 - INFO - Hourly forecast data appeneded to CSV.
+2025-03-31 14:00:08 - INFO - Display image generated successfully.
+2025-03-31 14:00:08 - INFO - Display image generated successfully.
+2025-03-31 14:00:12 - INFO - Image displayed on e-paper successfully.
+2025-03-31 14:00:12 - INFO - Image displayed on e-paper successfully.
+2025-03-31 14:15:07 - INFO - Weather display script started.
+2025-03-31 14:15:07 - INFO - Weather display script started.
+2025-03-31 14:15:07 - INFO - Weather data fetched successfully.
+2025-03-31 14:15:07 - INFO - Weather data fetched successfully.
+2025-03-31 14:15:07 - INFO - Weather data processed successfully.
+2025-03-31 14:15:07 - INFO - Weather data processed successfully.
+2025-03-31 14:15:07 - INFO - Current data appended to CSV.
+2025-03-31 14:15:07 - INFO - Current data appended to CSV.
+2025-03-31 14:15:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-03-31 14:15:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-03-31 14:15:08 - INFO - Display image generated successfully.
+2025-03-31 14:15:08 - INFO - Display image generated successfully.
+2025-03-31 14:15:12 - INFO - Image displayed on e-paper successfully.
+2025-03-31 14:15:12 - INFO - Image displayed on e-paper successfully.
+2025-03-31 14:30:07 - INFO - Weather display script started.
+2025-03-31 14:30:07 - INFO - Weather display script started.
+2025-03-31 14:30:07 - INFO - Weather data fetched successfully.
+2025-03-31 14:30:07 - INFO - Weather data fetched successfully.
+2025-03-31 14:30:07 - INFO - Weather data processed successfully.
+2025-03-31 14:30:07 - INFO - Weather data processed successfully.
+2025-03-31 14:30:07 - INFO - Current data appended to CSV.
+2025-03-31 14:30:07 - INFO - Current data appended to CSV.
+2025-03-31 14:30:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-03-31 14:30:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-03-31 14:30:08 - INFO - Display image generated successfully.
+2025-03-31 14:30:08 - INFO - Display image generated successfully.
+2025-03-31 14:30:12 - INFO - Image displayed on e-paper successfully.
+2025-03-31 14:30:12 - INFO - Image displayed on e-paper successfully.
+2025-03-31 14:45:07 - INFO - Weather display script started.
+2025-03-31 14:45:07 - INFO - Weather display script started.
+2025-03-31 14:45:07 - INFO - Weather data fetched successfully.
+2025-03-31 14:45:07 - INFO - Weather data fetched successfully.
+2025-03-31 14:45:07 - INFO - Weather data processed successfully.
+2025-03-31 14:45:07 - INFO - Weather data processed successfully.
+2025-03-31 14:45:07 - INFO - Current data appended to CSV.
+2025-03-31 14:45:07 - INFO - Current data appended to CSV.
+2025-03-31 14:45:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-03-31 14:45:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-03-31 14:45:07 - INFO - Display image generated successfully.
+2025-03-31 14:45:07 - INFO - Display image generated successfully.
+2025-03-31 14:45:12 - INFO - Image displayed on e-paper successfully.
+2025-03-31 14:45:12 - INFO - Image displayed on e-paper successfully.
+2025-03-31 15:00:07 - INFO - Weather display script started.
+2025-03-31 15:00:07 - INFO - Weather display script started.
+2025-03-31 15:00:07 - INFO - Weather data fetched successfully.
+2025-03-31 15:00:07 - INFO - Weather data fetched successfully.
+2025-03-31 15:00:07 - INFO - Weather data processed successfully.
+2025-03-31 15:00:07 - INFO - Weather data processed successfully.
+2025-03-31 15:00:07 - INFO - Current data appended to CSV.
+2025-03-31 15:00:07 - INFO - Current data appended to CSV.
+2025-03-31 15:00:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-03-31 15:00:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-03-31 15:00:07 - INFO - Display image generated successfully.
+2025-03-31 15:00:07 - INFO - Display image generated successfully.
+2025-03-31 15:00:11 - INFO - Image displayed on e-paper successfully.
+2025-03-31 15:00:11 - INFO - Image displayed on e-paper successfully.
+2025-03-31 15:15:06 - INFO - Weather display script started.
+2025-03-31 15:15:06 - INFO - Weather display script started.
+2025-03-31 15:15:07 - INFO - Weather data fetched successfully.
+2025-03-31 15:15:07 - INFO - Weather data fetched successfully.
+2025-03-31 15:15:07 - INFO - Weather data processed successfully.
+2025-03-31 15:15:07 - INFO - Weather data processed successfully.
+2025-03-31 15:15:07 - INFO - Current data appended to CSV.
+2025-03-31 15:15:07 - INFO - Current data appended to CSV.
+2025-03-31 15:15:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-03-31 15:15:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-03-31 15:15:07 - INFO - Display image generated successfully.
+2025-03-31 15:15:07 - INFO - Display image generated successfully.
+2025-03-31 15:15:11 - INFO - Image displayed on e-paper successfully.
+2025-03-31 15:15:11 - INFO - Image displayed on e-paper successfully.
+2025-03-31 15:30:06 - INFO - Weather display script started.
+2025-03-31 15:30:06 - INFO - Weather display script started.
+2025-03-31 15:30:07 - INFO - Weather data fetched successfully.
+2025-03-31 15:30:07 - INFO - Weather data fetched successfully.
+2025-03-31 15:30:07 - INFO - Weather data processed successfully.
+2025-03-31 15:30:07 - INFO - Weather data processed successfully.
+2025-03-31 15:30:07 - INFO - Current data appended to CSV.
+2025-03-31 15:30:07 - INFO - Current data appended to CSV.
+2025-03-31 15:30:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-03-31 15:30:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-03-31 15:30:07 - INFO - Display image generated successfully.
+2025-03-31 15:30:07 - INFO - Display image generated successfully.
+2025-03-31 15:30:11 - INFO - Image displayed on e-paper successfully.
+2025-03-31 15:30:11 - INFO - Image displayed on e-paper successfully.
+2025-03-31 15:45:06 - INFO - Weather display script started.
+2025-03-31 15:45:06 - INFO - Weather display script started.
+2025-03-31 15:45:07 - INFO - Weather data fetched successfully.
+2025-03-31 15:45:07 - INFO - Weather data fetched successfully.
+2025-03-31 15:45:07 - INFO - Weather data processed successfully.
+2025-03-31 15:45:07 - INFO - Weather data processed successfully.
+2025-03-31 15:45:07 - INFO - Current data appended to CSV.
+2025-03-31 15:45:07 - INFO - Current data appended to CSV.
+2025-03-31 15:45:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-03-31 15:45:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-03-31 15:45:07 - INFO - Display image generated successfully.
+2025-03-31 15:45:07 - INFO - Display image generated successfully.
+2025-03-31 15:45:11 - INFO - Image displayed on e-paper successfully.
+2025-03-31 15:45:11 - INFO - Image displayed on e-paper successfully.
+2025-03-31 16:00:06 - INFO - Weather display script started.
+2025-03-31 16:00:06 - INFO - Weather display script started.
+2025-03-31 16:00:07 - INFO - Weather data fetched successfully.
+2025-03-31 16:00:07 - INFO - Weather data fetched successfully.
+2025-03-31 16:00:07 - INFO - Weather data processed successfully.
+2025-03-31 16:00:07 - INFO - Weather data processed successfully.
+2025-03-31 16:00:07 - INFO - Current data appended to CSV.
+2025-03-31 16:00:07 - INFO - Current data appended to CSV.
+2025-03-31 16:00:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-03-31 16:00:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-03-31 16:00:07 - INFO - Display image generated successfully.
+2025-03-31 16:00:07 - INFO - Display image generated successfully.
+2025-03-31 16:00:11 - INFO - Image displayed on e-paper successfully.
+2025-03-31 16:00:11 - INFO - Image displayed on e-paper successfully.
+2025-03-31 16:15:07 - INFO - Weather display script started.
+2025-03-31 16:15:07 - INFO - Weather display script started.
+2025-03-31 16:15:07 - INFO - Weather data fetched successfully.
+2025-03-31 16:15:07 - INFO - Weather data fetched successfully.
+2025-03-31 16:15:07 - INFO - Weather data processed successfully.
+2025-03-31 16:15:07 - INFO - Weather data processed successfully.
+2025-03-31 16:15:07 - INFO - Current data appended to CSV.
+2025-03-31 16:15:07 - INFO - Current data appended to CSV.
+2025-03-31 16:15:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-03-31 16:15:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-03-31 16:15:08 - INFO - Display image generated successfully.
+2025-03-31 16:15:08 - INFO - Display image generated successfully.
+2025-03-31 16:15:12 - INFO - Image displayed on e-paper successfully.
+2025-03-31 16:15:12 - INFO - Image displayed on e-paper successfully.
+2025-03-31 16:30:07 - INFO - Weather display script started.
+2025-03-31 16:30:07 - INFO - Weather display script started.
+2025-03-31 16:30:07 - INFO - Weather data fetched successfully.
+2025-03-31 16:30:07 - INFO - Weather data fetched successfully.
+2025-03-31 16:30:07 - INFO - Weather data processed successfully.
+2025-03-31 16:30:07 - INFO - Weather data processed successfully.
+2025-03-31 16:30:07 - INFO - Current data appended to CSV.
+2025-03-31 16:30:07 - INFO - Current data appended to CSV.
+2025-03-31 16:30:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-03-31 16:30:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-03-31 16:30:08 - INFO - Display image generated successfully.
+2025-03-31 16:30:08 - INFO - Display image generated successfully.
+2025-03-31 16:30:12 - INFO - Image displayed on e-paper successfully.
+2025-03-31 16:30:12 - INFO - Image displayed on e-paper successfully.
+2025-03-31 16:45:07 - INFO - Weather display script started.
+2025-03-31 16:45:07 - INFO - Weather display script started.
+2025-03-31 16:45:07 - INFO - Weather data fetched successfully.
+2025-03-31 16:45:07 - INFO - Weather data fetched successfully.
+2025-03-31 16:45:07 - INFO - Weather data processed successfully.
+2025-03-31 16:45:07 - INFO - Weather data processed successfully.
+2025-03-31 16:45:07 - INFO - Current data appended to CSV.
+2025-03-31 16:45:07 - INFO - Current data appended to CSV.
+2025-03-31 16:45:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-03-31 16:45:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-03-31 16:45:07 - INFO - Display image generated successfully.
+2025-03-31 16:45:07 - INFO - Display image generated successfully.
+2025-03-31 16:45:12 - INFO - Image displayed on e-paper successfully.
+2025-03-31 16:45:12 - INFO - Image displayed on e-paper successfully.
+2025-03-31 17:00:07 - INFO - Weather display script started.
+2025-03-31 17:00:07 - INFO - Weather display script started.
+2025-03-31 17:00:08 - INFO - Weather data fetched successfully.
+2025-03-31 17:00:08 - INFO - Weather data fetched successfully.
+2025-03-31 17:00:08 - INFO - Weather data processed successfully.
+2025-03-31 17:00:08 - INFO - Weather data processed successfully.
+2025-03-31 17:00:08 - INFO - Current data appended to CSV.
+2025-03-31 17:00:08 - INFO - Current data appended to CSV.
+2025-03-31 17:00:08 - INFO - Hourly forecast data appeneded to CSV.
+2025-03-31 17:00:08 - INFO - Hourly forecast data appeneded to CSV.
+2025-03-31 17:00:08 - INFO - Display image generated successfully.
+2025-03-31 17:00:08 - INFO - Display image generated successfully.
+2025-03-31 17:00:12 - INFO - Image displayed on e-paper successfully.
+2025-03-31 17:00:12 - INFO - Image displayed on e-paper successfully.
+2025-03-31 17:15:06 - INFO - Weather display script started.
+2025-03-31 17:15:06 - INFO - Weather display script started.
+2025-03-31 17:15:07 - INFO - Weather data fetched successfully.
+2025-03-31 17:15:07 - INFO - Weather data fetched successfully.
+2025-03-31 17:15:07 - INFO - Weather data processed successfully.
+2025-03-31 17:15:07 - INFO - Weather data processed successfully.
+2025-03-31 17:15:07 - INFO - Current data appended to CSV.
+2025-03-31 17:15:07 - INFO - Current data appended to CSV.
+2025-03-31 17:15:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-03-31 17:15:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-03-31 17:15:07 - INFO - Display image generated successfully.
+2025-03-31 17:15:07 - INFO - Display image generated successfully.
+2025-03-31 17:15:11 - INFO - Image displayed on e-paper successfully.
+2025-03-31 17:15:11 - INFO - Image displayed on e-paper successfully.
+2025-03-31 17:30:07 - INFO - Weather display script started.
+2025-03-31 17:30:07 - INFO - Weather display script started.
+2025-03-31 17:30:08 - INFO - Weather data fetched successfully.
+2025-03-31 17:30:08 - INFO - Weather data fetched successfully.
+2025-03-31 17:30:08 - INFO - Weather data processed successfully.
+2025-03-31 17:30:08 - INFO - Weather data processed successfully.
+2025-03-31 17:30:08 - INFO - Current data appended to CSV.
+2025-03-31 17:30:08 - INFO - Current data appended to CSV.
+2025-03-31 17:30:08 - INFO - Hourly forecast data appeneded to CSV.
+2025-03-31 17:30:08 - INFO - Hourly forecast data appeneded to CSV.
+2025-03-31 17:30:08 - INFO - Display image generated successfully.
+2025-03-31 17:30:08 - INFO - Display image generated successfully.
+2025-03-31 17:30:12 - INFO - Image displayed on e-paper successfully.
+2025-03-31 17:30:12 - INFO - Image displayed on e-paper successfully.
+2025-03-31 17:45:07 - INFO - Weather display script started.
+2025-03-31 17:45:07 - INFO - Weather display script started.
+2025-03-31 17:45:07 - INFO - Weather data fetched successfully.
+2025-03-31 17:45:07 - INFO - Weather data fetched successfully.
+2025-03-31 17:45:07 - INFO - Weather data processed successfully.
+2025-03-31 17:45:07 - INFO - Weather data processed successfully.
+2025-03-31 17:45:07 - INFO - Current data appended to CSV.
+2025-03-31 17:45:07 - INFO - Current data appended to CSV.
+2025-03-31 17:45:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-03-31 17:45:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-03-31 17:45:08 - INFO - Display image generated successfully.
+2025-03-31 17:45:08 - INFO - Display image generated successfully.
+2025-03-31 17:45:12 - INFO - Image displayed on e-paper successfully.
+2025-03-31 17:45:12 - INFO - Image displayed on e-paper successfully.
+2025-03-31 18:00:07 - INFO - Weather display script started.
+2025-03-31 18:00:07 - INFO - Weather display script started.
+2025-03-31 18:00:08 - INFO - Weather data fetched successfully.
+2025-03-31 18:00:08 - INFO - Weather data fetched successfully.
+2025-03-31 18:00:08 - INFO - Weather data processed successfully.
+2025-03-31 18:00:08 - INFO - Weather data processed successfully.
+2025-03-31 18:00:08 - INFO - Current data appended to CSV.
+2025-03-31 18:00:08 - INFO - Current data appended to CSV.
+2025-03-31 18:00:08 - INFO - Hourly forecast data appeneded to CSV.
+2025-03-31 18:00:08 - INFO - Hourly forecast data appeneded to CSV.
+2025-03-31 18:00:08 - INFO - Display image generated successfully.
+2025-03-31 18:00:08 - INFO - Display image generated successfully.
+2025-03-31 18:00:12 - INFO - Image displayed on e-paper successfully.
+2025-03-31 18:00:12 - INFO - Image displayed on e-paper successfully.
+2025-03-31 18:11:32 - INFO - Weather display script started.
+2025-03-31 18:11:33 - INFO - Weather data fetched successfully.
+2025-03-31 18:11:33 - INFO - Weather data processed successfully.
+2025-03-31 18:11:33 - INFO - Current data appended to CSV.
+2025-03-31 18:11:33 - INFO - Hourly forecast data appeneded to CSV.
+2025-03-31 18:11:33 - INFO - Display image generated successfully.
+2025-03-31 18:11:37 - INFO - Image displayed on e-paper successfully.
+2025-03-31 18:14:33 - INFO - Weather display script started.
+2025-03-31 18:14:34 - INFO - Weather data fetched successfully.
+2025-03-31 18:14:34 - INFO - Weather data processed successfully.
+2025-03-31 18:14:34 - INFO - Current data appended to CSV.
+2025-03-31 18:14:34 - INFO - Hourly forecast data appeneded to CSV.
+2025-03-31 18:14:34 - INFO - Display image generated successfully.
+2025-03-31 18:14:38 - INFO - Image displayed on e-paper successfully.
+2025-03-31 18:15:06 - INFO - Weather display script started.
+2025-03-31 18:15:06 - INFO - Weather display script started.
+2025-03-31 18:15:12 - INFO - Weather data fetched successfully.
+2025-03-31 18:15:12 - INFO - Weather data fetched successfully.
+2025-03-31 18:15:12 - INFO - Weather data processed successfully.
+2025-03-31 18:15:12 - INFO - Weather data processed successfully.
+2025-03-31 18:15:12 - INFO - Current data appended to CSV.
+2025-03-31 18:15:12 - INFO - Current data appended to CSV.
+2025-03-31 18:15:12 - INFO - Hourly forecast data appeneded to CSV.
+2025-03-31 18:15:12 - INFO - Hourly forecast data appeneded to CSV.
+2025-03-31 18:15:12 - INFO - Display image generated successfully.
+2025-03-31 18:15:12 - INFO - Display image generated successfully.
+2025-03-31 18:15:16 - INFO - Image displayed on e-paper successfully.
+2025-03-31 18:15:16 - INFO - Image displayed on e-paper successfully.
+2025-03-31 18:15:42 - INFO - Weather display script started.
+2025-03-31 18:15:43 - INFO - Weather data fetched successfully.
+2025-03-31 18:15:43 - INFO - Weather data processed successfully.
+2025-03-31 18:15:43 - INFO - Current data appended to CSV.
+2025-03-31 18:15:43 - INFO - Hourly forecast data appeneded to CSV.
+2025-03-31 18:15:43 - INFO - Display image generated successfully.
+2025-03-31 18:15:47 - INFO - Image displayed on e-paper successfully.
+2025-03-31 18:28:33 - INFO - Weather display script started.
+2025-03-31 18:28:33 - INFO - Weather data fetched successfully.
+2025-03-31 18:28:33 - INFO - Weather data processed successfully.
+2025-03-31 18:28:33 - INFO - Current data appended to CSV.
+2025-03-31 18:28:33 - INFO - Hourly forecast data appeneded to CSV.
+2025-03-31 18:28:33 - ERROR - An unexpected error occurred: name 'csv_file_path' is not defined
+2025-03-31 18:30:06 - INFO - Weather display script started.
+2025-03-31 18:30:06 - INFO - Weather display script started.
+2025-03-31 18:30:07 - INFO - Weather data fetched successfully.
+2025-03-31 18:30:07 - INFO - Weather data fetched successfully.
+2025-03-31 18:30:07 - INFO - Weather data processed successfully.
+2025-03-31 18:30:07 - INFO - Weather data processed successfully.
+2025-03-31 18:30:07 - INFO - Current data appended to CSV.
+2025-03-31 18:30:07 - INFO - Current data appended to CSV.
+2025-03-31 18:30:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-03-31 18:30:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-03-31 18:30:07 - ERROR - An unexpected error occurred: name 'csv_file_path' is not defined
+2025-03-31 18:30:07 - ERROR - An unexpected error occurred: name 'csv_file_path' is not defined
+2025-03-31 18:30:52 - INFO - Weather display script started.
+2025-03-31 18:30:52 - INFO - Weather data fetched successfully.
+2025-03-31 18:30:52 - INFO - Weather data processed successfully.
+2025-03-31 18:30:52 - INFO - Current data appended to CSV.
+2025-03-31 18:30:52 - INFO - Hourly forecast data appeneded to CSV.
+2025-03-31 18:30:52 - INFO - Duplicate entries removed based on time.
+2025-03-31 18:30:53 - INFO - Display image generated successfully.
+2025-03-31 18:30:57 - INFO - Image displayed on e-paper successfully.
+2025-03-31 18:37:29 - INFO - Weather display script started.
+2025-03-31 18:37:30 - INFO - Weather data fetched successfully.
+2025-03-31 18:37:30 - INFO - Weather data processed successfully.
+2025-03-31 18:37:30 - INFO - Current data appended to CSV.
+2025-03-31 18:37:30 - INFO - Hourly forecast data appeneded to CSV.
+2025-03-31 18:37:30 - INFO - Duplicate entries removed based on time.
+2025-03-31 18:37:30 - INFO - Display image generated successfully.
+2025-03-31 18:37:34 - INFO - Image displayed on e-paper successfully.
+2025-03-31 18:45:06 - INFO - Weather display script started.
+2025-03-31 18:45:06 - INFO - Weather display script started.
+2025-03-31 18:45:07 - INFO - Weather data fetched successfully.
+2025-03-31 18:45:07 - INFO - Weather data fetched successfully.
+2025-03-31 18:45:07 - INFO - Weather data processed successfully.
+2025-03-31 18:45:07 - INFO - Weather data processed successfully.
+2025-03-31 18:45:07 - INFO - Current data appended to CSV.
+2025-03-31 18:45:07 - INFO - Current data appended to CSV.
+2025-03-31 18:45:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-03-31 18:45:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-03-31 18:45:07 - INFO - Duplicate entries removed based on time.
+2025-03-31 18:45:07 - INFO - Duplicate entries removed based on time.
+2025-03-31 18:45:07 - INFO - Display image generated successfully.
+2025-03-31 18:45:07 - INFO - Display image generated successfully.
+2025-03-31 18:45:11 - INFO - Image displayed on e-paper successfully.
+2025-03-31 18:45:11 - INFO - Image displayed on e-paper successfully.
+2025-03-31 19:00:07 - INFO - Weather display script started.
+2025-03-31 19:00:07 - INFO - Weather display script started.
+2025-03-31 19:00:08 - INFO - Weather data fetched successfully.
+2025-03-31 19:00:08 - INFO - Weather data fetched successfully.
+2025-03-31 19:00:08 - INFO - Weather data processed successfully.
+2025-03-31 19:00:08 - INFO - Weather data processed successfully.
+2025-03-31 19:00:08 - INFO - Current data appended to CSV.
+2025-03-31 19:00:08 - INFO - Current data appended to CSV.
+2025-03-31 19:00:08 - INFO - Hourly forecast data appeneded to CSV.
+2025-03-31 19:00:08 - INFO - Hourly forecast data appeneded to CSV.
+2025-03-31 19:00:08 - INFO - Duplicate entries removed based on time.
+2025-03-31 19:00:08 - INFO - Duplicate entries removed based on time.
+2025-03-31 19:00:08 - INFO - Display image generated successfully.
+2025-03-31 19:00:08 - INFO - Display image generated successfully.
+2025-03-31 19:00:12 - INFO - Image displayed on e-paper successfully.
+2025-03-31 19:00:12 - INFO - Image displayed on e-paper successfully.
+2025-03-31 19:15:07 - INFO - Weather display script started.
+2025-03-31 19:15:07 - INFO - Weather display script started.
+2025-03-31 19:15:08 - INFO - Weather data fetched successfully.
+2025-03-31 19:15:08 - INFO - Weather data fetched successfully.
+2025-03-31 19:15:08 - INFO - Weather data processed successfully.
+2025-03-31 19:15:08 - INFO - Weather data processed successfully.
+2025-03-31 19:15:08 - INFO - Current data appended to CSV.
+2025-03-31 19:15:08 - INFO - Current data appended to CSV.
+2025-03-31 19:15:08 - INFO - Hourly forecast data appeneded to CSV.
+2025-03-31 19:15:08 - INFO - Hourly forecast data appeneded to CSV.
+2025-03-31 19:15:08 - INFO - Duplicate entries removed based on time.
+2025-03-31 19:15:08 - INFO - Duplicate entries removed based on time.
+2025-03-31 19:15:08 - INFO - Display image generated successfully.
+2025-03-31 19:15:08 - INFO - Display image generated successfully.
+2025-03-31 19:15:12 - INFO - Image displayed on e-paper successfully.
+2025-03-31 19:15:12 - INFO - Image displayed on e-paper successfully.
+2025-03-31 19:30:07 - INFO - Weather display script started.
+2025-03-31 19:30:07 - INFO - Weather display script started.
+2025-03-31 19:30:07 - INFO - Weather data fetched successfully.
+2025-03-31 19:30:07 - INFO - Weather data fetched successfully.
+2025-03-31 19:30:07 - INFO - Weather data processed successfully.
+2025-03-31 19:30:07 - INFO - Weather data processed successfully.
+2025-03-31 19:30:07 - INFO - Current data appended to CSV.
+2025-03-31 19:30:07 - INFO - Current data appended to CSV.
+2025-03-31 19:30:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-03-31 19:30:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-03-31 19:30:07 - INFO - Duplicate entries removed based on time.
+2025-03-31 19:30:07 - INFO - Duplicate entries removed based on time.
+2025-03-31 19:30:08 - INFO - Display image generated successfully.
+2025-03-31 19:30:08 - INFO - Display image generated successfully.
+2025-03-31 19:30:12 - INFO - Image displayed on e-paper successfully.
+2025-03-31 19:30:12 - INFO - Image displayed on e-paper successfully.
+2025-03-31 19:45:07 - INFO - Weather display script started.
+2025-03-31 19:45:07 - INFO - Weather display script started.
+2025-03-31 19:45:07 - INFO - Weather data fetched successfully.
+2025-03-31 19:45:07 - INFO - Weather data fetched successfully.
+2025-03-31 19:45:07 - INFO - Weather data processed successfully.
+2025-03-31 19:45:07 - INFO - Weather data processed successfully.
+2025-03-31 19:45:07 - INFO - Current data appended to CSV.
+2025-03-31 19:45:07 - INFO - Current data appended to CSV.
+2025-03-31 19:45:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-03-31 19:45:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-03-31 19:45:07 - INFO - Duplicate entries removed based on time.
+2025-03-31 19:45:07 - INFO - Duplicate entries removed based on time.
+2025-03-31 19:45:08 - INFO - Display image generated successfully.
+2025-03-31 19:45:08 - INFO - Display image generated successfully.
+2025-03-31 19:45:12 - INFO - Image displayed on e-paper successfully.
+2025-03-31 19:45:12 - INFO - Image displayed on e-paper successfully.
+2025-03-31 20:00:07 - INFO - Weather display script started.
+2025-03-31 20:00:07 - INFO - Weather display script started.
+2025-03-31 20:00:13 - INFO - Weather data fetched successfully.
+2025-03-31 20:00:13 - INFO - Weather data fetched successfully.
+2025-03-31 20:00:13 - INFO - Weather data processed successfully.
+2025-03-31 20:00:13 - INFO - Weather data processed successfully.
+2025-03-31 20:00:13 - INFO - Current data appended to CSV.
+2025-03-31 20:00:13 - INFO - Current data appended to CSV.
+2025-03-31 20:00:13 - INFO - Hourly forecast data appeneded to CSV.
+2025-03-31 20:00:13 - INFO - Hourly forecast data appeneded to CSV.
+2025-03-31 20:00:13 - INFO - Duplicate entries removed based on time.
+2025-03-31 20:00:13 - INFO - Duplicate entries removed based on time.
+2025-03-31 20:00:13 - INFO - Display image generated successfully.
+2025-03-31 20:00:13 - INFO - Display image generated successfully.
+2025-03-31 20:00:17 - INFO - Image displayed on e-paper successfully.
+2025-03-31 20:00:17 - INFO - Image displayed on e-paper successfully.
+2025-03-31 20:15:07 - INFO - Weather display script started.
+2025-03-31 20:15:07 - INFO - Weather display script started.
+2025-03-31 20:15:07 - INFO - Weather data fetched successfully.
+2025-03-31 20:15:07 - INFO - Weather data fetched successfully.
+2025-03-31 20:15:07 - INFO - Weather data processed successfully.
+2025-03-31 20:15:07 - INFO - Weather data processed successfully.
+2025-03-31 20:15:07 - INFO - Current data appended to CSV.
+2025-03-31 20:15:07 - INFO - Current data appended to CSV.
+2025-03-31 20:15:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-03-31 20:15:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-03-31 20:15:07 - INFO - Duplicate entries removed based on time.
+2025-03-31 20:15:07 - INFO - Duplicate entries removed based on time.
+2025-03-31 20:15:08 - INFO - Display image generated successfully.
+2025-03-31 20:15:08 - INFO - Display image generated successfully.
+2025-03-31 20:15:12 - INFO - Image displayed on e-paper successfully.
+2025-03-31 20:15:12 - INFO - Image displayed on e-paper successfully.
+2025-03-31 20:30:07 - INFO - Weather display script started.
+2025-03-31 20:30:07 - INFO - Weather display script started.
+2025-03-31 20:30:07 - INFO - Weather data fetched successfully.
+2025-03-31 20:30:07 - INFO - Weather data fetched successfully.
+2025-03-31 20:30:07 - INFO - Weather data processed successfully.
+2025-03-31 20:30:07 - INFO - Weather data processed successfully.
+2025-03-31 20:30:07 - INFO - Current data appended to CSV.
+2025-03-31 20:30:07 - INFO - Current data appended to CSV.
+2025-03-31 20:30:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-03-31 20:30:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-03-31 20:30:07 - INFO - Duplicate entries removed based on time.
+2025-03-31 20:30:07 - INFO - Duplicate entries removed based on time.
+2025-03-31 20:30:08 - INFO - Display image generated successfully.
+2025-03-31 20:30:08 - INFO - Display image generated successfully.
+2025-03-31 20:30:12 - INFO - Image displayed on e-paper successfully.
+2025-03-31 20:30:12 - INFO - Image displayed on e-paper successfully.
+  File "/home/konstipi/e_paper_weather_display_gc/weather.py", line 105
+    break
+TabError: inconsistent use of tabs and spaces in indentation
+2025-03-31 21:00:07 - INFO - Weather display script started.
+2025-03-31 21:00:07 - INFO - Weather display script started.
+2025-03-31 21:00:07 - INFO - Weather data fetched successfully.
+2025-03-31 21:00:07 - INFO - Weather data fetched successfully.
+2025-03-31 21:00:07 - INFO - Weather data processed successfully.
+2025-03-31 21:00:07 - INFO - Weather data processed successfully.
+2025-03-31 21:00:07 - INFO - Current data appended to CSV.
+2025-03-31 21:00:07 - INFO - Current data appended to CSV.
+2025-03-31 21:00:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-03-31 21:00:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-03-31 21:00:07 - INFO - Duplicate entries removed based on time.
+2025-03-31 21:00:07 - INFO - Duplicate entries removed based on time.
+2025-03-31 21:00:08 - INFO - Display image generated successfully.
+2025-03-31 21:00:08 - INFO - Display image generated successfully.
+2025-03-31 21:00:12 - INFO - Image displayed on e-paper successfully.
+2025-03-31 21:00:12 - INFO - Image displayed on e-paper successfully.
+2025-03-31 21:15:07 - INFO - Weather display script started.
+2025-03-31 21:15:07 - INFO - Weather display script started.
+2025-03-31 21:15:07 - INFO - Weather data fetched successfully.
+2025-03-31 21:15:07 - INFO - Weather data fetched successfully.
+2025-03-31 21:15:07 - INFO - Weather data processed successfully.
+2025-03-31 21:15:07 - INFO - Weather data processed successfully.
+2025-03-31 21:15:07 - INFO - Current data appended to CSV.
+2025-03-31 21:15:07 - INFO - Current data appended to CSV.
+2025-03-31 21:15:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-03-31 21:15:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-03-31 21:15:07 - INFO - Duplicate entries removed based on time.
+2025-03-31 21:15:07 - INFO - Duplicate entries removed based on time.
+2025-03-31 21:15:07 - INFO - Display image generated successfully.
+2025-03-31 21:15:07 - INFO - Display image generated successfully.
+2025-03-31 21:15:12 - INFO - Image displayed on e-paper successfully.
+2025-03-31 21:15:12 - INFO - Image displayed on e-paper successfully.
+2025-03-31 21:30:07 - INFO - Weather display script started.
+2025-03-31 21:30:07 - INFO - Weather display script started.
+2025-03-31 21:30:07 - INFO - Weather data fetched successfully.
+2025-03-31 21:30:07 - INFO - Weather data fetched successfully.
+2025-03-31 21:30:07 - INFO - Weather data processed successfully.
+2025-03-31 21:30:07 - INFO - Weather data processed successfully.
+2025-03-31 21:30:07 - INFO - Current data appended to CSV.
+2025-03-31 21:30:07 - INFO - Current data appended to CSV.
+2025-03-31 21:30:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-03-31 21:30:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-03-31 21:30:07 - INFO - Duplicate entries removed based on time.
+2025-03-31 21:30:07 - INFO - Duplicate entries removed based on time.
+2025-03-31 21:30:07 - INFO - Display image generated successfully.
+2025-03-31 21:30:07 - INFO - Display image generated successfully.
+2025-03-31 21:30:12 - INFO - Image displayed on e-paper successfully.
+2025-03-31 21:30:12 - INFO - Image displayed on e-paper successfully.
+2025-03-31 21:45:06 - INFO - Weather display script started.
+2025-03-31 21:45:06 - INFO - Weather display script started.
+2025-03-31 21:45:07 - INFO - Weather data fetched successfully.
+2025-03-31 21:45:07 - INFO - Weather data fetched successfully.
+2025-03-31 21:45:07 - INFO - Weather data processed successfully.
+2025-03-31 21:45:07 - INFO - Weather data processed successfully.
+2025-03-31 21:45:07 - INFO - Current data appended to CSV.
+2025-03-31 21:45:07 - INFO - Current data appended to CSV.
+2025-03-31 21:45:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-03-31 21:45:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-03-31 21:45:07 - INFO - Duplicate entries removed based on time.
+2025-03-31 21:45:07 - INFO - Duplicate entries removed based on time.
+2025-03-31 21:45:07 - INFO - Display image generated successfully.
+2025-03-31 21:45:07 - INFO - Display image generated successfully.
+2025-03-31 21:45:11 - INFO - Image displayed on e-paper successfully.
+2025-03-31 21:45:11 - INFO - Image displayed on e-paper successfully.
+2025-03-31 22:00:06 - INFO - Weather display script started.
+2025-03-31 22:00:06 - INFO - Weather display script started.
+2025-03-31 22:00:07 - INFO - Weather data fetched successfully.
+2025-03-31 22:00:07 - INFO - Weather data fetched successfully.
+2025-03-31 22:00:07 - INFO - Weather data processed successfully.
+2025-03-31 22:00:07 - INFO - Weather data processed successfully.
+2025-03-31 22:00:07 - INFO - Current data appended to CSV.
+2025-03-31 22:00:07 - INFO - Current data appended to CSV.
+2025-03-31 22:00:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-03-31 22:00:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-03-31 22:00:07 - INFO - Duplicate entries removed based on time.
+2025-03-31 22:00:07 - INFO - Duplicate entries removed based on time.
+2025-03-31 22:00:07 - INFO - Display image generated successfully.
+2025-03-31 22:00:07 - INFO - Display image generated successfully.
+2025-03-31 22:00:12 - INFO - Image displayed on e-paper successfully.
+2025-03-31 22:00:12 - INFO - Image displayed on e-paper successfully.
+2025-03-31 22:15:08 - INFO - Weather display script started.
+2025-03-31 22:15:08 - INFO - Weather display script started.
+2025-03-31 22:15:09 - INFO - Weather data fetched successfully.
+2025-03-31 22:15:09 - INFO - Weather data fetched successfully.
+2025-03-31 22:15:09 - INFO - Weather data processed successfully.
+2025-03-31 22:15:09 - INFO - Weather data processed successfully.
+2025-03-31 22:15:09 - INFO - Current data appended to CSV.
+2025-03-31 22:15:09 - INFO - Current data appended to CSV.
+2025-03-31 22:15:09 - INFO - Hourly forecast data appeneded to CSV.
+2025-03-31 22:15:09 - INFO - Hourly forecast data appeneded to CSV.
+2025-03-31 22:15:09 - INFO - Duplicate entries removed based on time.
+2025-03-31 22:15:09 - INFO - Duplicate entries removed based on time.
+2025-03-31 22:15:09 - INFO - Display image generated successfully.
+2025-03-31 22:15:09 - INFO - Display image generated successfully.
+2025-03-31 22:15:15 - INFO - Image displayed on e-paper successfully.
+2025-03-31 22:15:15 - INFO - Image displayed on e-paper successfully.
+2025-03-31 22:30:07 - INFO - Weather display script started.
+2025-03-31 22:30:07 - INFO - Weather display script started.
+2025-03-31 22:30:09 - INFO - Weather data fetched successfully.
+2025-03-31 22:30:09 - INFO - Weather data fetched successfully.
+2025-03-31 22:30:09 - INFO - Weather data processed successfully.
+2025-03-31 22:30:09 - INFO - Weather data processed successfully.
+2025-03-31 22:30:09 - INFO - Current data appended to CSV.
+2025-03-31 22:30:09 - INFO - Current data appended to CSV.
+2025-03-31 22:30:09 - INFO - Hourly forecast data appeneded to CSV.
+2025-03-31 22:30:09 - INFO - Hourly forecast data appeneded to CSV.
+2025-03-31 22:30:09 - INFO - Duplicate entries removed based on time.
+2025-03-31 22:30:09 - INFO - Duplicate entries removed based on time.
+2025-03-31 22:30:09 - INFO - Display image generated successfully.
+2025-03-31 22:30:09 - INFO - Display image generated successfully.
+2025-03-31 22:30:13 - INFO - Image displayed on e-paper successfully.
+2025-03-31 22:30:13 - INFO - Image displayed on e-paper successfully.
+2025-03-31 22:45:07 - INFO - Weather display script started.
+2025-03-31 22:45:07 - INFO - Weather display script started.
+2025-03-31 22:45:13 - INFO - Weather data fetched successfully.
+2025-03-31 22:45:13 - INFO - Weather data fetched successfully.
+2025-03-31 22:45:13 - INFO - Weather data processed successfully.
+2025-03-31 22:45:13 - INFO - Weather data processed successfully.
+2025-03-31 22:45:13 - INFO - Current data appended to CSV.
+2025-03-31 22:45:13 - INFO - Current data appended to CSV.
+2025-03-31 22:45:13 - INFO - Hourly forecast data appeneded to CSV.
+2025-03-31 22:45:13 - INFO - Hourly forecast data appeneded to CSV.
+2025-03-31 22:45:13 - INFO - Duplicate entries removed based on time.
+2025-03-31 22:45:13 - INFO - Duplicate entries removed based on time.
+2025-03-31 22:45:13 - INFO - Display image generated successfully.
+2025-03-31 22:45:13 - INFO - Display image generated successfully.
+2025-03-31 22:45:17 - INFO - Image displayed on e-paper successfully.
+2025-03-31 22:45:17 - INFO - Image displayed on e-paper successfully.
+2025-03-31 23:00:07 - INFO - Weather display script started.
+2025-03-31 23:00:07 - INFO - Weather display script started.
+2025-03-31 23:00:07 - INFO - Weather data fetched successfully.
+2025-03-31 23:00:07 - INFO - Weather data fetched successfully.
+2025-03-31 23:00:07 - INFO - Weather data processed successfully.
+2025-03-31 23:00:07 - INFO - Weather data processed successfully.
+2025-03-31 23:00:07 - INFO - Current data appended to CSV.
+2025-03-31 23:00:07 - INFO - Current data appended to CSV.
+2025-03-31 23:00:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-03-31 23:00:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-03-31 23:00:07 - INFO - Duplicate entries removed based on time.
+2025-03-31 23:00:07 - INFO - Duplicate entries removed based on time.
+2025-03-31 23:00:08 - INFO - Display image generated successfully.
+2025-03-31 23:00:08 - INFO - Display image generated successfully.
+2025-03-31 23:00:12 - INFO - Image displayed on e-paper successfully.
+2025-03-31 23:00:12 - INFO - Image displayed on e-paper successfully.
+2025-03-31 23:13:28 - INFO - Weather display script started.
+2025-03-31 23:13:28 - INFO - Weather data fetched successfully.
+2025-03-31 23:13:28 - INFO - Weather data processed successfully.
+2025-03-31 23:13:28 - INFO - Current data appended to CSV.
+2025-03-31 23:13:28 - INFO - Hourly forecast data appeneded to CSV.
+2025-03-31 23:13:28 - INFO - Duplicate entries removed based on time.
+2025-03-31 23:13:28 - ERROR - Error generating display image: name 'time' is not defined
+2025-03-31 23:13:28 - ERROR - An unexpected error occurred: name 'time' is not defined
+2025-03-31 23:15:07 - INFO - Weather display script started.
+2025-03-31 23:15:07 - INFO - Weather display script started.
+2025-03-31 23:15:08 - INFO - Weather data fetched successfully.
+2025-03-31 23:15:08 - INFO - Weather data fetched successfully.
+2025-03-31 23:15:08 - INFO - Weather data processed successfully.
+2025-03-31 23:15:08 - INFO - Weather data processed successfully.
+2025-03-31 23:15:08 - INFO - Current data appended to CSV.
+2025-03-31 23:15:08 - INFO - Current data appended to CSV.
+2025-03-31 23:15:08 - INFO - Hourly forecast data appeneded to CSV.
+2025-03-31 23:15:08 - INFO - Hourly forecast data appeneded to CSV.
+2025-03-31 23:15:08 - INFO - Duplicate entries removed based on time.
+2025-03-31 23:15:08 - INFO - Duplicate entries removed based on time.
+2025-03-31 23:15:09 - ERROR - Error generating display image: name 'time' is not defined
+2025-03-31 23:15:09 - ERROR - Error generating display image: name 'time' is not defined
+2025-03-31 23:15:09 - ERROR - An unexpected error occurred: name 'time' is not defined
+2025-03-31 23:15:09 - ERROR - An unexpected error occurred: name 'time' is not defined
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/gpiozero/pins/pi.py", line 408, in pin
+    pin = self.pins[info]
+          ~~~~~~~~~^^^^^^
+KeyError: PinInfo(number=11, name='GPIO17', names=frozenset({17, 'BCM17', 'GPIO17', 'WPI0', '17', 'J8:11', 'BOARD11'}), pull='', row=6, col=1, interfaces=frozenset({'', 'dpi', 'spi', 'uart', 'gpio'}))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/konstipi/e_paper_weather_display_gc/weather.py", line 15, in <module>
+    from waveshare_epd import epd7in5_V2
+  File "/home/konstipi/e_paper_weather_display_gc/e-Paper/RaspberryPi_JetsonNano/python/lib/waveshare_epd/epd7in5_V2.py", line 32, in <module>
+    from . import epdconfig
+  File "/home/konstipi/e_paper_weather_display_gc/e-Paper/RaspberryPi_JetsonNano/python/lib/waveshare_epd/epdconfig.py", line 313, in <module>
+    implementation = RaspberryPi()
+                     ^^^^^^^^^^^^^
+  File "/home/konstipi/e_paper_weather_display_gc/e-Paper/RaspberryPi_JetsonNano/python/lib/waveshare_epd/epdconfig.py", line 56, in __init__
+    self.GPIO_RST_PIN    = gpiozero.LED(self.RST_PIN)
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3/dist-packages/gpiozero/devices.py", line 103, in __call__
+    self = super().__call__(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3/dist-packages/gpiozero/output_devices.py", line 192, in __init__
+    super().__init__(pin, active_high=active_high,
+  File "/usr/lib/python3/dist-packages/gpiozero/output_devices.py", line 74, in __init__
+    super().__init__(pin, pin_factory=pin_factory)
+  File "/usr/lib/python3/dist-packages/gpiozero/mixins.py", line 75, in __init__
+    super().__init__(*args, **kwargs)
+  File "/usr/lib/python3/dist-packages/gpiozero/devices.py", line 549, in __init__
+    pin = self.pin_factory.pin(pin)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3/dist-packages/gpiozero/pins/pi.py", line 410, in pin
+    pin = self.pin_class(self, info)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3/dist-packages/gpiozero/pins/lgpio.py", line 126, in __init__
+    lgpio.gpio_claim_input(
+  File "/usr/lib/python3/dist-packages/lgpio.py", line 755, in gpio_claim_input
+    return _u2i(_lgpio._gpio_claim_input(handle&0xffff, lFlags, gpio))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3/dist-packages/lgpio.py", line 458, in _u2i
+    raise error(error_text(v))
+lgpio.error: 'GPIO busy'
+2025-03-31 23:30:03 - INFO - Weather display script started.
+2025-03-31 23:30:04 - INFO - Weather data fetched successfully.
+2025-03-31 23:30:04 - INFO - Weather data processed successfully.
+2025-03-31 23:30:04 - INFO - Current data appended to CSV.
+2025-03-31 23:30:04 - INFO - Hourly forecast data appeneded to CSV.
+2025-03-31 23:30:04 - INFO - Duplicate entries removed based on time.
+2025-03-31 23:30:04 - INFO - Display image generated successfully.
+2025-03-31 23:30:08 - INFO - Image displayed on e-paper successfully.
+2025-03-31 23:36:53 - INFO - Weather display script started.
+2025-03-31 23:36:53 - INFO - Weather data fetched successfully.
+2025-03-31 23:36:54 - INFO - Weather data processed successfully.
+2025-03-31 23:36:54 - INFO - Current data appended to CSV.
+2025-03-31 23:36:54 - INFO - Hourly forecast data appeneded to CSV.
+2025-03-31 23:36:54 - INFO - Duplicate entries removed based on time.
+2025-03-31 23:36:54 - INFO - Display image generated successfully.
+2025-03-31 23:36:58 - INFO - Image displayed on e-paper successfully.
+2025-03-31 23:45:06 - INFO - Weather display script started.
+2025-03-31 23:45:06 - INFO - Weather display script started.
+2025-03-31 23:45:07 - INFO - Weather data fetched successfully.
+2025-03-31 23:45:07 - INFO - Weather data fetched successfully.
+2025-03-31 23:45:07 - INFO - Weather data processed successfully.
+2025-03-31 23:45:07 - INFO - Weather data processed successfully.
+2025-03-31 23:45:07 - INFO - Current data appended to CSV.
+2025-03-31 23:45:07 - INFO - Current data appended to CSV.
+2025-03-31 23:45:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-03-31 23:45:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-03-31 23:45:07 - INFO - Duplicate entries removed based on time.
+2025-03-31 23:45:07 - INFO - Duplicate entries removed based on time.
+2025-03-31 23:45:07 - INFO - Display image generated successfully.
+2025-03-31 23:45:07 - INFO - Display image generated successfully.
+2025-03-31 23:45:11 - INFO - Image displayed on e-paper successfully.
+2025-03-31 23:45:11 - INFO - Image displayed on e-paper successfully.
+2025-04-01 06:00:08 - INFO - Weather display script started.
+2025-04-01 06:00:08 - INFO - Weather display script started.
+2025-04-01 06:00:09 - INFO - Weather data fetched successfully.
+2025-04-01 06:00:09 - INFO - Weather data fetched successfully.
+2025-04-01 06:00:09 - INFO - Weather data processed successfully.
+2025-04-01 06:00:09 - INFO - Weather data processed successfully.
+2025-04-01 06:00:09 - INFO - Current data appended to CSV.
+2025-04-01 06:00:09 - INFO - Current data appended to CSV.
+2025-04-01 06:00:09 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-01 06:00:09 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-01 06:00:09 - INFO - Duplicate entries removed based on time.
+2025-04-01 06:00:09 - INFO - Duplicate entries removed based on time.
+2025-04-01 06:00:09 - INFO - Display image generated successfully.
+2025-04-01 06:00:09 - INFO - Display image generated successfully.
+2025-04-01 06:00:15 - INFO - Image displayed on e-paper successfully.
+2025-04-01 06:00:15 - INFO - Image displayed on e-paper successfully.
+2025-04-01 06:15:09 - INFO - Weather display script started.
+2025-04-01 06:15:09 - INFO - Weather display script started.
+2025-04-01 06:15:09 - INFO - Weather data fetched successfully.
+2025-04-01 06:15:09 - INFO - Weather data fetched successfully.
+2025-04-01 06:15:09 - INFO - Weather data processed successfully.
+2025-04-01 06:15:09 - INFO - Weather data processed successfully.
+2025-04-01 06:15:09 - INFO - Current data appended to CSV.
+2025-04-01 06:15:09 - INFO - Current data appended to CSV.
+2025-04-01 06:15:09 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-01 06:15:09 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-01 06:15:09 - INFO - Duplicate entries removed based on time.
+2025-04-01 06:15:09 - INFO - Duplicate entries removed based on time.
+2025-04-01 06:15:09 - INFO - Display image generated successfully.
+2025-04-01 06:15:09 - INFO - Display image generated successfully.
+2025-04-01 06:15:15 - INFO - Image displayed on e-paper successfully.
+2025-04-01 06:15:15 - INFO - Image displayed on e-paper successfully.
+2025-04-01 06:30:08 - INFO - Weather display script started.
+2025-04-01 06:30:08 - INFO - Weather display script started.
+2025-04-01 06:30:09 - INFO - Weather data fetched successfully.
+2025-04-01 06:30:09 - INFO - Weather data fetched successfully.
+2025-04-01 06:30:09 - INFO - Weather data processed successfully.
+2025-04-01 06:30:09 - INFO - Weather data processed successfully.
+2025-04-01 06:30:09 - INFO - Current data appended to CSV.
+2025-04-01 06:30:09 - INFO - Current data appended to CSV.
+2025-04-01 06:30:09 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-01 06:30:09 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-01 06:30:09 - INFO - Duplicate entries removed based on time.
+2025-04-01 06:30:09 - INFO - Duplicate entries removed based on time.
+2025-04-01 06:30:09 - INFO - Display image generated successfully.
+2025-04-01 06:30:09 - INFO - Display image generated successfully.
+2025-04-01 06:30:15 - INFO - Image displayed on e-paper successfully.
+2025-04-01 06:30:15 - INFO - Image displayed on e-paper successfully.
+2025-04-01 06:45:09 - INFO - Weather display script started.
+2025-04-01 06:45:09 - INFO - Weather display script started.
+2025-04-01 06:45:09 - INFO - Weather data fetched successfully.
+2025-04-01 06:45:09 - INFO - Weather data fetched successfully.
+2025-04-01 06:45:09 - INFO - Weather data processed successfully.
+2025-04-01 06:45:09 - INFO - Weather data processed successfully.
+2025-04-01 06:45:09 - INFO - Current data appended to CSV.
+2025-04-01 06:45:09 - INFO - Current data appended to CSV.
+2025-04-01 06:45:09 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-01 06:45:09 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-01 06:45:09 - INFO - Duplicate entries removed based on time.
+2025-04-01 06:45:09 - INFO - Duplicate entries removed based on time.
+2025-04-01 06:45:09 - INFO - Display image generated successfully.
+2025-04-01 06:45:09 - INFO - Display image generated successfully.
+2025-04-01 06:45:15 - INFO - Image displayed on e-paper successfully.
+2025-04-01 06:45:15 - INFO - Image displayed on e-paper successfully.
+2025-04-01 07:00:08 - INFO - Weather display script started.
+2025-04-01 07:00:08 - INFO - Weather display script started.
+2025-04-01 07:00:09 - INFO - Weather data fetched successfully.
+2025-04-01 07:00:09 - INFO - Weather data fetched successfully.
+2025-04-01 07:00:09 - INFO - Weather data processed successfully.
+2025-04-01 07:00:09 - INFO - Weather data processed successfully.
+2025-04-01 07:00:09 - INFO - Current data appended to CSV.
+2025-04-01 07:00:09 - INFO - Current data appended to CSV.
+2025-04-01 07:00:09 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-01 07:00:09 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-01 07:00:09 - INFO - Duplicate entries removed based on time.
+2025-04-01 07:00:09 - INFO - Duplicate entries removed based on time.
+2025-04-01 07:00:09 - INFO - Display image generated successfully.
+2025-04-01 07:00:09 - INFO - Display image generated successfully.
+2025-04-01 07:00:15 - INFO - Image displayed on e-paper successfully.
+2025-04-01 07:00:15 - INFO - Image displayed on e-paper successfully.
+2025-04-01 07:15:09 - INFO - Weather display script started.
+2025-04-01 07:15:09 - INFO - Weather display script started.
+2025-04-01 07:15:09 - INFO - Weather data fetched successfully.
+2025-04-01 07:15:09 - INFO - Weather data fetched successfully.
+2025-04-01 07:15:09 - INFO - Weather data processed successfully.
+2025-04-01 07:15:09 - INFO - Weather data processed successfully.
+2025-04-01 07:15:09 - INFO - Current data appended to CSV.
+2025-04-01 07:15:09 - INFO - Current data appended to CSV.
+2025-04-01 07:15:09 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-01 07:15:09 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-01 07:15:09 - INFO - Duplicate entries removed based on time.
+2025-04-01 07:15:09 - INFO - Duplicate entries removed based on time.
+2025-04-01 07:15:10 - INFO - Display image generated successfully.
+2025-04-01 07:15:10 - INFO - Display image generated successfully.
+2025-04-01 07:15:16 - INFO - Image displayed on e-paper successfully.
+2025-04-01 07:15:16 - INFO - Image displayed on e-paper successfully.
+2025-04-01 07:30:08 - INFO - Weather display script started.
+2025-04-01 07:30:08 - INFO - Weather display script started.
+2025-04-01 07:30:09 - INFO - Weather data fetched successfully.
+2025-04-01 07:30:09 - INFO - Weather data fetched successfully.
+2025-04-01 07:30:09 - INFO - Weather data processed successfully.
+2025-04-01 07:30:09 - INFO - Weather data processed successfully.
+2025-04-01 07:30:09 - INFO - Current data appended to CSV.
+2025-04-01 07:30:09 - INFO - Current data appended to CSV.
+2025-04-01 07:30:09 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-01 07:30:09 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-01 07:30:09 - INFO - Duplicate entries removed based on time.
+2025-04-01 07:30:09 - INFO - Duplicate entries removed based on time.
+2025-04-01 07:30:09 - INFO - Display image generated successfully.
+2025-04-01 07:30:09 - INFO - Display image generated successfully.
+2025-04-01 07:30:15 - INFO - Image displayed on e-paper successfully.
+2025-04-01 07:30:15 - INFO - Image displayed on e-paper successfully.
+2025-04-01 07:45:09 - INFO - Weather display script started.
+2025-04-01 07:45:09 - INFO - Weather display script started.
+2025-04-01 07:45:09 - INFO - Weather data fetched successfully.
+2025-04-01 07:45:09 - INFO - Weather data fetched successfully.
+2025-04-01 07:45:09 - INFO - Weather data processed successfully.
+2025-04-01 07:45:09 - INFO - Weather data processed successfully.
+2025-04-01 07:45:09 - INFO - Current data appended to CSV.
+2025-04-01 07:45:09 - INFO - Current data appended to CSV.
+2025-04-01 07:45:09 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-01 07:45:09 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-01 07:45:09 - INFO - Duplicate entries removed based on time.
+2025-04-01 07:45:09 - INFO - Duplicate entries removed based on time.
+2025-04-01 07:45:09 - INFO - Display image generated successfully.
+2025-04-01 07:45:09 - INFO - Display image generated successfully.
+2025-04-01 07:45:16 - INFO - Image displayed on e-paper successfully.
+2025-04-01 07:45:16 - INFO - Image displayed on e-paper successfully.
+2025-04-01 08:00:08 - INFO - Weather display script started.
+2025-04-01 08:00:08 - INFO - Weather display script started.
+2025-04-01 08:00:09 - INFO - Weather data fetched successfully.
+2025-04-01 08:00:09 - INFO - Weather data fetched successfully.
+2025-04-01 08:00:09 - INFO - Weather data processed successfully.
+2025-04-01 08:00:09 - INFO - Weather data processed successfully.
+2025-04-01 08:00:09 - INFO - Current data appended to CSV.
+2025-04-01 08:00:09 - INFO - Current data appended to CSV.
+2025-04-01 08:00:09 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-01 08:00:09 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-01 08:00:09 - INFO - Duplicate entries removed based on time.
+2025-04-01 08:00:09 - INFO - Duplicate entries removed based on time.
+2025-04-01 08:00:09 - INFO - Display image generated successfully.
+2025-04-01 08:00:09 - INFO - Display image generated successfully.
+2025-04-01 08:00:15 - INFO - Image displayed on e-paper successfully.
+2025-04-01 08:00:15 - INFO - Image displayed on e-paper successfully.
+2025-04-01 08:15:09 - INFO - Weather display script started.
+2025-04-01 08:15:09 - INFO - Weather display script started.
+2025-04-01 08:15:09 - INFO - Weather data fetched successfully.
+2025-04-01 08:15:09 - INFO - Weather data fetched successfully.
+2025-04-01 08:15:09 - INFO - Weather data processed successfully.
+2025-04-01 08:15:09 - INFO - Weather data processed successfully.
+2025-04-01 08:15:09 - INFO - Current data appended to CSV.
+2025-04-01 08:15:09 - INFO - Current data appended to CSV.
+2025-04-01 08:15:09 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-01 08:15:09 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-01 08:15:09 - INFO - Duplicate entries removed based on time.
+2025-04-01 08:15:09 - INFO - Duplicate entries removed based on time.
+2025-04-01 08:15:09 - INFO - Display image generated successfully.
+2025-04-01 08:15:09 - INFO - Display image generated successfully.
+2025-04-01 08:15:15 - INFO - Image displayed on e-paper successfully.
+2025-04-01 08:15:15 - INFO - Image displayed on e-paper successfully.
+2025-04-01 08:30:06 - INFO - Weather display script started.
+2025-04-01 08:30:06 - INFO - Weather display script started.
+2025-04-01 08:30:07 - INFO - Weather data fetched successfully.
+2025-04-01 08:30:07 - INFO - Weather data fetched successfully.
+2025-04-01 08:30:07 - INFO - Weather data processed successfully.
+2025-04-01 08:30:07 - INFO - Weather data processed successfully.
+2025-04-01 08:30:07 - INFO - Current data appended to CSV.
+2025-04-01 08:30:07 - INFO - Current data appended to CSV.
+2025-04-01 08:30:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-01 08:30:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-01 08:30:07 - INFO - Duplicate entries removed based on time.
+2025-04-01 08:30:07 - INFO - Duplicate entries removed based on time.
+2025-04-01 08:30:07 - INFO - Display image generated successfully.
+2025-04-01 08:30:07 - INFO - Display image generated successfully.
+2025-04-01 08:30:11 - INFO - Image displayed on e-paper successfully.
+2025-04-01 08:30:11 - INFO - Image displayed on e-paper successfully.
+2025-04-01 08:45:06 - INFO - Weather display script started.
+2025-04-01 08:45:06 - INFO - Weather display script started.
+2025-04-01 08:45:07 - INFO - Weather data fetched successfully.
+2025-04-01 08:45:07 - INFO - Weather data fetched successfully.
+2025-04-01 08:45:07 - INFO - Weather data processed successfully.
+2025-04-01 08:45:07 - INFO - Weather data processed successfully.
+2025-04-01 08:45:07 - INFO - Current data appended to CSV.
+2025-04-01 08:45:07 - INFO - Current data appended to CSV.
+2025-04-01 08:45:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-01 08:45:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-01 08:45:07 - INFO - Duplicate entries removed based on time.
+2025-04-01 08:45:07 - INFO - Duplicate entries removed based on time.
+2025-04-01 08:45:07 - INFO - Display image generated successfully.
+2025-04-01 08:45:07 - INFO - Display image generated successfully.
+2025-04-01 08:45:11 - INFO - Image displayed on e-paper successfully.
+2025-04-01 08:45:11 - INFO - Image displayed on e-paper successfully.
+2025-04-01 09:00:06 - INFO - Weather display script started.
+2025-04-01 09:00:06 - INFO - Weather display script started.
+2025-04-01 09:00:07 - INFO - Weather data fetched successfully.
+2025-04-01 09:00:07 - INFO - Weather data fetched successfully.
+2025-04-01 09:00:07 - INFO - Weather data processed successfully.
+2025-04-01 09:00:07 - INFO - Weather data processed successfully.
+2025-04-01 09:00:07 - INFO - Current data appended to CSV.
+2025-04-01 09:00:07 - INFO - Current data appended to CSV.
+2025-04-01 09:00:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-01 09:00:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-01 09:00:07 - INFO - Duplicate entries removed based on time.
+2025-04-01 09:00:07 - INFO - Duplicate entries removed based on time.
+2025-04-01 09:00:07 - INFO - Display image generated successfully.
+2025-04-01 09:00:07 - INFO - Display image generated successfully.
+2025-04-01 09:00:11 - INFO - Image displayed on e-paper successfully.
+2025-04-01 09:00:11 - INFO - Image displayed on e-paper successfully.
+2025-04-01 09:15:06 - INFO - Weather display script started.
+2025-04-01 09:15:06 - INFO - Weather display script started.
+2025-04-01 09:15:07 - INFO - Weather data fetched successfully.
+2025-04-01 09:15:07 - INFO - Weather data fetched successfully.
+2025-04-01 09:15:07 - INFO - Weather data processed successfully.
+2025-04-01 09:15:07 - INFO - Weather data processed successfully.
+2025-04-01 09:15:07 - INFO - Current data appended to CSV.
+2025-04-01 09:15:07 - INFO - Current data appended to CSV.
+2025-04-01 09:15:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-01 09:15:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-01 09:15:07 - INFO - Duplicate entries removed based on time.
+2025-04-01 09:15:07 - INFO - Duplicate entries removed based on time.
+2025-04-01 09:15:07 - INFO - Display image generated successfully.
+2025-04-01 09:15:07 - INFO - Display image generated successfully.
+2025-04-01 09:15:11 - INFO - Image displayed on e-paper successfully.
+2025-04-01 09:15:11 - INFO - Image displayed on e-paper successfully.
+2025-04-01 09:30:07 - INFO - Weather display script started.
+2025-04-01 09:30:07 - INFO - Weather display script started.
+2025-04-01 09:30:07 - INFO - Weather data fetched successfully.
+2025-04-01 09:30:07 - INFO - Weather data fetched successfully.
+2025-04-01 09:30:08 - INFO - Weather data processed successfully.
+2025-04-01 09:30:08 - INFO - Weather data processed successfully.
+2025-04-01 09:30:08 - INFO - Current data appended to CSV.
+2025-04-01 09:30:08 - INFO - Current data appended to CSV.
+2025-04-01 09:30:08 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-01 09:30:08 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-01 09:30:08 - INFO - Duplicate entries removed based on time.
+2025-04-01 09:30:08 - INFO - Duplicate entries removed based on time.
+2025-04-01 09:30:08 - INFO - Display image generated successfully.
+2025-04-01 09:30:08 - INFO - Display image generated successfully.
+2025-04-01 09:30:12 - INFO - Image displayed on e-paper successfully.
+2025-04-01 09:30:12 - INFO - Image displayed on e-paper successfully.
+2025-04-01 09:45:07 - INFO - Weather display script started.
+2025-04-01 09:45:07 - INFO - Weather display script started.
+2025-04-01 09:45:07 - INFO - Weather data fetched successfully.
+2025-04-01 09:45:07 - INFO - Weather data fetched successfully.
+2025-04-01 09:45:07 - INFO - Weather data processed successfully.
+2025-04-01 09:45:07 - INFO - Weather data processed successfully.
+2025-04-01 09:45:07 - INFO - Current data appended to CSV.
+2025-04-01 09:45:07 - INFO - Current data appended to CSV.
+2025-04-01 09:45:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-01 09:45:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-01 09:45:07 - INFO - Duplicate entries removed based on time.
+2025-04-01 09:45:07 - INFO - Duplicate entries removed based on time.
+2025-04-01 09:45:08 - INFO - Display image generated successfully.
+2025-04-01 09:45:08 - INFO - Display image generated successfully.
+2025-04-01 09:45:12 - INFO - Image displayed on e-paper successfully.
+2025-04-01 09:45:12 - INFO - Image displayed on e-paper successfully.
+2025-04-01 10:00:07 - INFO - Weather display script started.
+2025-04-01 10:00:07 - INFO - Weather display script started.
+2025-04-01 10:00:07 - INFO - Weather data fetched successfully.
+2025-04-01 10:00:07 - INFO - Weather data fetched successfully.
+2025-04-01 10:00:07 - INFO - Weather data processed successfully.
+2025-04-01 10:00:07 - INFO - Weather data processed successfully.
+2025-04-01 10:00:07 - INFO - Current data appended to CSV.
+2025-04-01 10:00:07 - INFO - Current data appended to CSV.
+2025-04-01 10:00:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-01 10:00:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-01 10:00:07 - INFO - Duplicate entries removed based on time.
+2025-04-01 10:00:07 - INFO - Duplicate entries removed based on time.
+2025-04-01 10:00:07 - INFO - Display image generated successfully.
+2025-04-01 10:00:07 - INFO - Display image generated successfully.
+2025-04-01 10:00:12 - INFO - Image displayed on e-paper successfully.
+2025-04-01 10:00:12 - INFO - Image displayed on e-paper successfully.
+2025-04-01 10:15:07 - INFO - Weather display script started.
+2025-04-01 10:15:07 - INFO - Weather display script started.
+2025-04-01 10:15:07 - INFO - Weather data fetched successfully.
+2025-04-01 10:15:07 - INFO - Weather data fetched successfully.
+2025-04-01 10:15:07 - INFO - Weather data processed successfully.
+2025-04-01 10:15:07 - INFO - Weather data processed successfully.
+2025-04-01 10:15:07 - INFO - Current data appended to CSV.
+2025-04-01 10:15:07 - INFO - Current data appended to CSV.
+2025-04-01 10:15:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-01 10:15:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-01 10:15:07 - INFO - Duplicate entries removed based on time.
+2025-04-01 10:15:07 - INFO - Duplicate entries removed based on time.
+2025-04-01 10:15:07 - INFO - Display image generated successfully.
+2025-04-01 10:15:07 - INFO - Display image generated successfully.
+2025-04-01 10:15:12 - INFO - Image displayed on e-paper successfully.
+2025-04-01 10:15:12 - INFO - Image displayed on e-paper successfully.
+2025-04-01 10:30:06 - INFO - Weather display script started.
+2025-04-01 10:30:06 - INFO - Weather display script started.
+2025-04-01 10:30:22 - INFO - Weather data fetched successfully.
+2025-04-01 10:30:22 - INFO - Weather data fetched successfully.
+2025-04-01 10:30:22 - INFO - Weather data processed successfully.
+2025-04-01 10:30:22 - INFO - Weather data processed successfully.
+2025-04-01 10:30:22 - INFO - Current data appended to CSV.
+2025-04-01 10:30:22 - INFO - Current data appended to CSV.
+2025-04-01 10:30:22 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-01 10:30:22 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-01 10:30:22 - INFO - Duplicate entries removed based on time.
+2025-04-01 10:30:22 - INFO - Duplicate entries removed based on time.
+2025-04-01 10:30:22 - INFO - Display image generated successfully.
+2025-04-01 10:30:22 - INFO - Display image generated successfully.
+2025-04-01 10:30:26 - INFO - Image displayed on e-paper successfully.
+2025-04-01 10:30:26 - INFO - Image displayed on e-paper successfully.
+2025-04-01 10:45:06 - INFO - Weather display script started.
+2025-04-01 10:45:06 - INFO - Weather display script started.
+2025-04-01 10:45:07 - INFO - Weather data fetched successfully.
+2025-04-01 10:45:07 - INFO - Weather data fetched successfully.
+2025-04-01 10:45:07 - INFO - Weather data processed successfully.
+2025-04-01 10:45:07 - INFO - Weather data processed successfully.
+2025-04-01 10:45:07 - INFO - Current data appended to CSV.
+2025-04-01 10:45:07 - INFO - Current data appended to CSV.
+2025-04-01 10:45:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-01 10:45:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-01 10:45:07 - INFO - Duplicate entries removed based on time.
+2025-04-01 10:45:07 - INFO - Duplicate entries removed based on time.
+2025-04-01 10:45:07 - INFO - Display image generated successfully.
+2025-04-01 10:45:07 - INFO - Display image generated successfully.
+2025-04-01 10:45:11 - INFO - Image displayed on e-paper successfully.
+2025-04-01 10:45:11 - INFO - Image displayed on e-paper successfully.
+2025-04-01 11:00:07 - INFO - Weather display script started.
+2025-04-01 11:00:07 - INFO - Weather display script started.
+2025-04-01 11:00:08 - INFO - Weather data fetched successfully.
+2025-04-01 11:00:08 - INFO - Weather data fetched successfully.
+2025-04-01 11:00:08 - INFO - Weather data processed successfully.
+2025-04-01 11:00:08 - INFO - Weather data processed successfully.
+2025-04-01 11:00:08 - INFO - Current data appended to CSV.
+2025-04-01 11:00:08 - INFO - Current data appended to CSV.
+2025-04-01 11:00:08 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-01 11:00:08 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-01 11:00:08 - INFO - Duplicate entries removed based on time.
+2025-04-01 11:00:08 - INFO - Duplicate entries removed based on time.
+2025-04-01 11:00:08 - INFO - Display image generated successfully.
+2025-04-01 11:00:08 - INFO - Display image generated successfully.
+2025-04-01 11:00:12 - INFO - Image displayed on e-paper successfully.
+2025-04-01 11:00:12 - INFO - Image displayed on e-paper successfully.
+2025-04-01 11:15:07 - INFO - Weather display script started.
+2025-04-01 11:15:07 - INFO - Weather display script started.
+2025-04-01 11:15:08 - INFO - Weather data fetched successfully.
+2025-04-01 11:15:08 - INFO - Weather data fetched successfully.
+2025-04-01 11:15:08 - INFO - Weather data processed successfully.
+2025-04-01 11:15:08 - INFO - Weather data processed successfully.
+2025-04-01 11:15:08 - INFO - Current data appended to CSV.
+2025-04-01 11:15:08 - INFO - Current data appended to CSV.
+2025-04-01 11:15:08 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-01 11:15:08 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-01 11:15:08 - INFO - Duplicate entries removed based on time.
+2025-04-01 11:15:08 - INFO - Duplicate entries removed based on time.
+2025-04-01 11:15:08 - INFO - Display image generated successfully.
+2025-04-01 11:15:08 - INFO - Display image generated successfully.
+2025-04-01 11:15:12 - INFO - Image displayed on e-paper successfully.
+2025-04-01 11:15:12 - INFO - Image displayed on e-paper successfully.
+2025-04-01 11:30:07 - INFO - Weather display script started.
+2025-04-01 11:30:07 - INFO - Weather display script started.
+2025-04-01 11:30:07 - INFO - Weather data fetched successfully.
+2025-04-01 11:30:07 - INFO - Weather data fetched successfully.
+2025-04-01 11:30:07 - INFO - Weather data processed successfully.
+2025-04-01 11:30:07 - INFO - Weather data processed successfully.
+2025-04-01 11:30:07 - INFO - Current data appended to CSV.
+2025-04-01 11:30:07 - INFO - Current data appended to CSV.
+2025-04-01 11:30:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-01 11:30:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-01 11:30:07 - INFO - Duplicate entries removed based on time.
+2025-04-01 11:30:07 - INFO - Duplicate entries removed based on time.
+2025-04-01 11:30:08 - INFO - Display image generated successfully.
+2025-04-01 11:30:08 - INFO - Display image generated successfully.
+2025-04-01 11:30:12 - INFO - Image displayed on e-paper successfully.
+2025-04-01 11:30:12 - INFO - Image displayed on e-paper successfully.
+2025-04-01 11:45:07 - INFO - Weather display script started.
+2025-04-01 11:45:07 - INFO - Weather display script started.
+2025-04-01 11:45:07 - INFO - Weather data fetched successfully.
+2025-04-01 11:45:07 - INFO - Weather data fetched successfully.
+2025-04-01 11:45:07 - INFO - Weather data processed successfully.
+2025-04-01 11:45:07 - INFO - Weather data processed successfully.
+2025-04-01 11:45:07 - INFO - Current data appended to CSV.
+2025-04-01 11:45:07 - INFO - Current data appended to CSV.
+2025-04-01 11:45:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-01 11:45:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-01 11:45:07 - INFO - Duplicate entries removed based on time.
+2025-04-01 11:45:07 - INFO - Duplicate entries removed based on time.
+2025-04-01 11:45:08 - INFO - Display image generated successfully.
+2025-04-01 11:45:08 - INFO - Display image generated successfully.
+2025-04-01 11:45:12 - INFO - Image displayed on e-paper successfully.
+2025-04-01 11:45:12 - INFO - Image displayed on e-paper successfully.
+2025-04-01 12:00:07 - INFO - Weather display script started.
+2025-04-01 12:00:07 - INFO - Weather display script started.
+2025-04-01 12:00:08 - INFO - Weather data fetched successfully.
+2025-04-01 12:00:08 - INFO - Weather data fetched successfully.
+2025-04-01 12:00:08 - INFO - Weather data processed successfully.
+2025-04-01 12:00:08 - INFO - Weather data processed successfully.
+2025-04-01 12:00:08 - INFO - Current data appended to CSV.
+2025-04-01 12:00:08 - INFO - Current data appended to CSV.
+2025-04-01 12:00:08 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-01 12:00:08 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-01 12:00:08 - INFO - Duplicate entries removed based on time.
+2025-04-01 12:00:08 - INFO - Duplicate entries removed based on time.
+2025-04-01 12:00:08 - INFO - Display image generated successfully.
+2025-04-01 12:00:08 - INFO - Display image generated successfully.
+2025-04-01 12:00:12 - INFO - Image displayed on e-paper successfully.
+2025-04-01 12:00:12 - INFO - Image displayed on e-paper successfully.
+2025-04-01 12:15:06 - INFO - Weather display script started.
+2025-04-01 12:15:06 - INFO - Weather display script started.
+2025-04-01 12:15:07 - INFO - Weather data fetched successfully.
+2025-04-01 12:15:07 - INFO - Weather data fetched successfully.
+2025-04-01 12:15:07 - INFO - Weather data processed successfully.
+2025-04-01 12:15:07 - INFO - Weather data processed successfully.
+2025-04-01 12:15:07 - INFO - Current data appended to CSV.
+2025-04-01 12:15:07 - INFO - Current data appended to CSV.
+2025-04-01 12:15:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-01 12:15:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-01 12:15:07 - INFO - Duplicate entries removed based on time.
+2025-04-01 12:15:07 - INFO - Duplicate entries removed based on time.
+2025-04-01 12:15:07 - INFO - Display image generated successfully.
+2025-04-01 12:15:07 - INFO - Display image generated successfully.
+2025-04-01 12:15:11 - INFO - Image displayed on e-paper successfully.
+2025-04-01 12:15:11 - INFO - Image displayed on e-paper successfully.
+2025-04-01 12:30:06 - INFO - Weather display script started.
+2025-04-01 12:30:06 - INFO - Weather display script started.
+2025-04-01 12:30:07 - INFO - Weather data fetched successfully.
+2025-04-01 12:30:07 - INFO - Weather data fetched successfully.
+2025-04-01 12:30:07 - INFO - Weather data processed successfully.
+2025-04-01 12:30:07 - INFO - Weather data processed successfully.
+2025-04-01 12:30:07 - INFO - Current data appended to CSV.
+2025-04-01 12:30:07 - INFO - Current data appended to CSV.
+2025-04-01 12:30:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-01 12:30:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-01 12:30:07 - INFO - Duplicate entries removed based on time.
+2025-04-01 12:30:07 - INFO - Duplicate entries removed based on time.
+2025-04-01 12:30:07 - INFO - Display image generated successfully.
+2025-04-01 12:30:07 - INFO - Display image generated successfully.
+2025-04-01 12:30:11 - INFO - Image displayed on e-paper successfully.
+2025-04-01 12:30:11 - INFO - Image displayed on e-paper successfully.
+2025-04-01 12:45:07 - INFO - Weather display script started.
+2025-04-01 12:45:07 - INFO - Weather display script started.
+2025-04-01 12:45:08 - INFO - Weather data fetched successfully.
+2025-04-01 12:45:08 - INFO - Weather data fetched successfully.
+2025-04-01 12:45:08 - INFO - Weather data processed successfully.
+2025-04-01 12:45:08 - INFO - Weather data processed successfully.
+2025-04-01 12:45:08 - INFO - Current data appended to CSV.
+2025-04-01 12:45:08 - INFO - Current data appended to CSV.
+2025-04-01 12:45:08 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-01 12:45:08 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-01 12:45:08 - INFO - Duplicate entries removed based on time.
+2025-04-01 12:45:08 - INFO - Duplicate entries removed based on time.
+2025-04-01 12:45:08 - INFO - Display image generated successfully.
+2025-04-01 12:45:08 - INFO - Display image generated successfully.
+2025-04-01 12:45:12 - INFO - Image displayed on e-paper successfully.
+2025-04-01 12:45:12 - INFO - Image displayed on e-paper successfully.
+2025-04-01 12:47:50 - INFO - Weather display script started.
+2025-04-01 12:47:51 - INFO - Weather data fetched successfully.
+2025-04-01 12:47:51 - INFO - Weather data processed successfully.
+2025-04-01 12:47:51 - INFO - Current data appended to CSV.
+2025-04-01 12:47:51 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-01 12:47:51 - INFO - Duplicate entries removed based on time.
+2025-04-01 12:47:51 - INFO - Display image generated successfully.
+2025-04-01 12:47:55 - INFO - Image displayed on e-paper successfully.
+2025-04-01 12:55:13 - INFO - Weather display script started.
+2025-04-01 12:55:14 - INFO - Weather data fetched successfully.
+2025-04-01 12:55:14 - INFO - Weather data processed successfully.
+2025-04-01 12:55:14 - INFO - Current data appended to CSV.
+2025-04-01 12:55:14 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-01 12:55:14 - INFO - Duplicate entries removed based on time.
+2025-04-01 12:55:14 - INFO - Display image generated successfully.
+2025-04-01 12:55:18 - INFO - Image displayed on e-paper successfully.
+2025-04-01 13:00:07 - INFO - Weather display script started.
+2025-04-01 13:00:07 - INFO - Weather display script started.
+2025-04-01 13:00:08 - INFO - Weather data fetched successfully.
+2025-04-01 13:00:08 - INFO - Weather data fetched successfully.
+2025-04-01 13:00:08 - INFO - Weather data processed successfully.
+2025-04-01 13:00:08 - INFO - Weather data processed successfully.
+2025-04-01 13:00:08 - INFO - Current data appended to CSV.
+2025-04-01 13:00:08 - INFO - Current data appended to CSV.
+2025-04-01 13:00:08 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-01 13:00:08 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-01 13:00:08 - INFO - Duplicate entries removed based on time.
+2025-04-01 13:00:08 - INFO - Duplicate entries removed based on time.
+2025-04-01 13:00:08 - INFO - Display image generated successfully.
+2025-04-01 13:00:08 - INFO - Display image generated successfully.
+2025-04-01 13:00:12 - INFO - Image displayed on e-paper successfully.
+2025-04-01 13:00:12 - INFO - Image displayed on e-paper successfully.
+2025-04-01 13:15:07 - INFO - Weather display script started.
+2025-04-01 13:15:07 - INFO - Weather display script started.
+2025-04-01 13:15:07 - INFO - Weather data fetched successfully.
+2025-04-01 13:15:07 - INFO - Weather data fetched successfully.
+2025-04-01 13:15:07 - INFO - Weather data processed successfully.
+2025-04-01 13:15:07 - INFO - Weather data processed successfully.
+2025-04-01 13:15:07 - INFO - Current data appended to CSV.
+2025-04-01 13:15:07 - INFO - Current data appended to CSV.
+2025-04-01 13:15:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-01 13:15:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-01 13:15:08 - INFO - Duplicate entries removed based on time.
+2025-04-01 13:15:08 - INFO - Duplicate entries removed based on time.
+2025-04-01 13:15:08 - INFO - Display image generated successfully.
+2025-04-01 13:15:08 - INFO - Display image generated successfully.
+2025-04-01 13:15:12 - INFO - Image displayed on e-paper successfully.
+2025-04-01 13:15:12 - INFO - Image displayed on e-paper successfully.
+2025-04-01 13:30:07 - INFO - Weather display script started.
+2025-04-01 13:30:07 - INFO - Weather display script started.
+2025-04-01 13:30:07 - INFO - Weather data fetched successfully.
+2025-04-01 13:30:07 - INFO - Weather data fetched successfully.
+2025-04-01 13:30:07 - INFO - Weather data processed successfully.
+2025-04-01 13:30:07 - INFO - Weather data processed successfully.
+2025-04-01 13:30:07 - INFO - Current data appended to CSV.
+2025-04-01 13:30:07 - INFO - Current data appended to CSV.
+2025-04-01 13:30:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-01 13:30:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-01 13:30:07 - INFO - Duplicate entries removed based on time.
+2025-04-01 13:30:07 - INFO - Duplicate entries removed based on time.
+2025-04-01 13:30:08 - INFO - Display image generated successfully.
+2025-04-01 13:30:08 - INFO - Display image generated successfully.
+2025-04-01 13:30:12 - INFO - Image displayed on e-paper successfully.
+2025-04-01 13:30:12 - INFO - Image displayed on e-paper successfully.
+2025-04-01 13:45:07 - INFO - Weather display script started.
+2025-04-01 13:45:07 - INFO - Weather display script started.
+2025-04-01 13:45:07 - INFO - Weather data fetched successfully.
+2025-04-01 13:45:07 - INFO - Weather data fetched successfully.
+2025-04-01 13:45:07 - INFO - Weather data processed successfully.
+2025-04-01 13:45:07 - INFO - Weather data processed successfully.
+2025-04-01 13:45:07 - INFO - Current data appended to CSV.
+2025-04-01 13:45:07 - INFO - Current data appended to CSV.
+2025-04-01 13:45:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-01 13:45:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-01 13:45:07 - INFO - Duplicate entries removed based on time.
+2025-04-01 13:45:07 - INFO - Duplicate entries removed based on time.
+2025-04-01 13:45:07 - INFO - Display image generated successfully.
+2025-04-01 13:45:07 - INFO - Display image generated successfully.
+2025-04-01 13:45:12 - INFO - Image displayed on e-paper successfully.
+2025-04-01 13:45:12 - INFO - Image displayed on e-paper successfully.
+2025-04-01 14:00:07 - INFO - Weather display script started.
+2025-04-01 14:00:07 - INFO - Weather display script started.
+2025-04-01 14:00:07 - INFO - Weather data fetched successfully.
+2025-04-01 14:00:07 - INFO - Weather data fetched successfully.
+2025-04-01 14:00:07 - INFO - Weather data processed successfully.
+2025-04-01 14:00:07 - INFO - Weather data processed successfully.
+2025-04-01 14:00:07 - INFO - Current data appended to CSV.
+2025-04-01 14:00:07 - INFO - Current data appended to CSV.
+2025-04-01 14:00:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-01 14:00:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-01 14:00:07 - INFO - Duplicate entries removed based on time.
+2025-04-01 14:00:07 - INFO - Duplicate entries removed based on time.
+2025-04-01 14:00:07 - INFO - Display image generated successfully.
+2025-04-01 14:00:07 - INFO - Display image generated successfully.
+2025-04-01 14:00:12 - INFO - Image displayed on e-paper successfully.
+2025-04-01 14:00:12 - INFO - Image displayed on e-paper successfully.
+2025-04-01 14:15:07 - INFO - Weather display script started.
+2025-04-01 14:15:07 - INFO - Weather display script started.
+2025-04-01 14:15:07 - INFO - Weather data fetched successfully.
+2025-04-01 14:15:07 - INFO - Weather data fetched successfully.
+2025-04-01 14:15:07 - INFO - Weather data processed successfully.
+2025-04-01 14:15:07 - INFO - Weather data processed successfully.
+2025-04-01 14:15:07 - INFO - Current data appended to CSV.
+2025-04-01 14:15:07 - INFO - Current data appended to CSV.
+2025-04-01 14:15:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-01 14:15:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-01 14:15:07 - INFO - Duplicate entries removed based on time.
+2025-04-01 14:15:07 - INFO - Duplicate entries removed based on time.
+2025-04-01 14:15:07 - INFO - Display image generated successfully.
+2025-04-01 14:15:07 - INFO - Display image generated successfully.
+2025-04-01 14:15:12 - INFO - Image displayed on e-paper successfully.
+2025-04-01 14:15:12 - INFO - Image displayed on e-paper successfully.
+2025-04-01 14:30:06 - INFO - Weather display script started.
+2025-04-01 14:30:06 - INFO - Weather display script started.
+2025-04-01 14:30:07 - INFO - Weather data fetched successfully.
+2025-04-01 14:30:07 - INFO - Weather data fetched successfully.
+2025-04-01 14:30:07 - INFO - Weather data processed successfully.
+2025-04-01 14:30:07 - INFO - Weather data processed successfully.
+2025-04-01 14:30:07 - INFO - Current data appended to CSV.
+2025-04-01 14:30:07 - INFO - Current data appended to CSV.
+2025-04-01 14:30:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-01 14:30:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-01 14:30:07 - INFO - Duplicate entries removed based on time.
+2025-04-01 14:30:07 - INFO - Duplicate entries removed based on time.
+2025-04-01 14:30:07 - INFO - Display image generated successfully.
+2025-04-01 14:30:07 - INFO - Display image generated successfully.
+2025-04-01 14:30:11 - INFO - Image displayed on e-paper successfully.
+2025-04-01 14:30:11 - INFO - Image displayed on e-paper successfully.
+2025-04-01 14:45:06 - INFO - Weather display script started.
+2025-04-01 14:45:06 - INFO - Weather display script started.
+2025-04-01 14:45:07 - INFO - Weather data fetched successfully.
+2025-04-01 14:45:07 - INFO - Weather data fetched successfully.
+2025-04-01 14:45:07 - INFO - Weather data processed successfully.
+2025-04-01 14:45:07 - INFO - Weather data processed successfully.
+2025-04-01 14:45:07 - INFO - Current data appended to CSV.
+2025-04-01 14:45:07 - INFO - Current data appended to CSV.
+2025-04-01 14:45:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-01 14:45:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-01 14:45:07 - INFO - Duplicate entries removed based on time.
+2025-04-01 14:45:07 - INFO - Duplicate entries removed based on time.
+2025-04-01 14:45:07 - INFO - Display image generated successfully.
+2025-04-01 14:45:07 - INFO - Display image generated successfully.
+2025-04-01 14:45:11 - INFO - Image displayed on e-paper successfully.
+2025-04-01 14:45:11 - INFO - Image displayed on e-paper successfully.
+2025-04-01 15:00:06 - INFO - Weather display script started.
+2025-04-01 15:00:06 - INFO - Weather display script started.
+2025-04-01 15:00:08 - INFO - Weather data fetched successfully.
+2025-04-01 15:00:08 - INFO - Weather data fetched successfully.
+2025-04-01 15:00:08 - INFO - Weather data processed successfully.
+2025-04-01 15:00:08 - INFO - Weather data processed successfully.
+2025-04-01 15:00:08 - INFO - Current data appended to CSV.
+2025-04-01 15:00:08 - INFO - Current data appended to CSV.
+2025-04-01 15:00:08 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-01 15:00:08 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-01 15:00:08 - INFO - Duplicate entries removed based on time.
+2025-04-01 15:00:08 - INFO - Duplicate entries removed based on time.
+2025-04-01 15:00:08 - INFO - Display image generated successfully.
+2025-04-01 15:00:08 - INFO - Display image generated successfully.
+2025-04-01 15:00:12 - INFO - Image displayed on e-paper successfully.
+2025-04-01 15:00:12 - INFO - Image displayed on e-paper successfully.
+2025-04-01 15:15:06 - INFO - Weather display script started.
+2025-04-01 15:15:06 - INFO - Weather display script started.
+2025-04-01 15:15:07 - INFO - Weather data fetched successfully.
+2025-04-01 15:15:07 - INFO - Weather data fetched successfully.
+2025-04-01 15:15:07 - INFO - Weather data processed successfully.
+2025-04-01 15:15:07 - INFO - Weather data processed successfully.
+2025-04-01 15:15:07 - INFO - Current data appended to CSV.
+2025-04-01 15:15:07 - INFO - Current data appended to CSV.
+2025-04-01 15:15:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-01 15:15:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-01 15:15:07 - INFO - Duplicate entries removed based on time.
+2025-04-01 15:15:07 - INFO - Duplicate entries removed based on time.
+2025-04-01 15:15:07 - INFO - Display image generated successfully.
+2025-04-01 15:15:07 - INFO - Display image generated successfully.
+2025-04-01 15:15:11 - INFO - Image displayed on e-paper successfully.
+2025-04-01 15:15:11 - INFO - Image displayed on e-paper successfully.
+2025-04-01 15:30:06 - INFO - Weather display script started.
+2025-04-01 15:30:06 - INFO - Weather display script started.
+2025-04-01 15:30:07 - INFO - Weather data fetched successfully.
+2025-04-01 15:30:07 - INFO - Weather data fetched successfully.
+2025-04-01 15:30:07 - INFO - Weather data processed successfully.
+2025-04-01 15:30:07 - INFO - Weather data processed successfully.
+2025-04-01 15:30:07 - INFO - Current data appended to CSV.
+2025-04-01 15:30:07 - INFO - Current data appended to CSV.
+2025-04-01 15:30:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-01 15:30:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-01 15:30:07 - INFO - Duplicate entries removed based on time.
+2025-04-01 15:30:07 - INFO - Duplicate entries removed based on time.
+2025-04-01 15:30:07 - INFO - Display image generated successfully.
+2025-04-01 15:30:07 - INFO - Display image generated successfully.
+2025-04-01 15:30:11 - INFO - Image displayed on e-paper successfully.
+2025-04-01 15:30:11 - INFO - Image displayed on e-paper successfully.
+2025-04-01 15:45:07 - INFO - Weather display script started.
+2025-04-01 15:45:07 - INFO - Weather display script started.
+2025-04-01 15:45:08 - INFO - Weather data fetched successfully.
+2025-04-01 15:45:08 - INFO - Weather data fetched successfully.
+2025-04-01 15:45:08 - INFO - Weather data processed successfully.
+2025-04-01 15:45:08 - INFO - Weather data processed successfully.
+2025-04-01 15:45:08 - INFO - Current data appended to CSV.
+2025-04-01 15:45:08 - INFO - Current data appended to CSV.
+2025-04-01 15:45:08 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-01 15:45:08 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-01 15:45:08 - INFO - Duplicate entries removed based on time.
+2025-04-01 15:45:08 - INFO - Duplicate entries removed based on time.
+2025-04-01 15:45:08 - INFO - Display image generated successfully.
+2025-04-01 15:45:08 - INFO - Display image generated successfully.
+2025-04-01 15:45:12 - INFO - Image displayed on e-paper successfully.
+2025-04-01 15:45:12 - INFO - Image displayed on e-paper successfully.
+2025-04-01 16:00:07 - INFO - Weather display script started.
+2025-04-01 16:00:07 - INFO - Weather display script started.
+2025-04-01 16:00:07 - INFO - Weather data fetched successfully.
+2025-04-01 16:00:07 - INFO - Weather data fetched successfully.
+2025-04-01 16:00:07 - INFO - Weather data processed successfully.
+2025-04-01 16:00:07 - INFO - Weather data processed successfully.
+2025-04-01 16:00:07 - INFO - Current data appended to CSV.
+2025-04-01 16:00:07 - INFO - Current data appended to CSV.
+2025-04-01 16:00:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-01 16:00:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-01 16:00:07 - INFO - Duplicate entries removed based on time.
+2025-04-01 16:00:07 - INFO - Duplicate entries removed based on time.
+2025-04-01 16:00:08 - INFO - Display image generated successfully.
+2025-04-01 16:00:08 - INFO - Display image generated successfully.
+2025-04-01 16:00:12 - INFO - Image displayed on e-paper successfully.
+2025-04-01 16:00:12 - INFO - Image displayed on e-paper successfully.
+2025-04-01 16:15:07 - INFO - Weather display script started.
+2025-04-01 16:15:07 - INFO - Weather display script started.
+2025-04-01 16:15:07 - INFO - Weather data fetched successfully.
+2025-04-01 16:15:07 - INFO - Weather data fetched successfully.
+2025-04-01 16:15:07 - INFO - Weather data processed successfully.
+2025-04-01 16:15:07 - INFO - Weather data processed successfully.
+2025-04-01 16:15:07 - INFO - Current data appended to CSV.
+2025-04-01 16:15:07 - INFO - Current data appended to CSV.
+2025-04-01 16:15:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-01 16:15:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-01 16:15:07 - INFO - Duplicate entries removed based on time.
+2025-04-01 16:15:07 - INFO - Duplicate entries removed based on time.
+2025-04-01 16:15:07 - INFO - Display image generated successfully.
+2025-04-01 16:15:07 - INFO - Display image generated successfully.
+2025-04-01 16:15:12 - INFO - Image displayed on e-paper successfully.
+2025-04-01 16:15:12 - INFO - Image displayed on e-paper successfully.
+2025-04-01 16:30:07 - INFO - Weather display script started.
+2025-04-01 16:30:07 - INFO - Weather display script started.
+2025-04-01 16:30:07 - INFO - Weather data fetched successfully.
+2025-04-01 16:30:07 - INFO - Weather data fetched successfully.
+2025-04-01 16:30:07 - INFO - Weather data processed successfully.
+2025-04-01 16:30:07 - INFO - Weather data processed successfully.
+2025-04-01 16:30:07 - INFO - Current data appended to CSV.
+2025-04-01 16:30:07 - INFO - Current data appended to CSV.
+2025-04-01 16:30:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-01 16:30:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-01 16:30:07 - INFO - Duplicate entries removed based on time.
+2025-04-01 16:30:07 - INFO - Duplicate entries removed based on time.
+2025-04-01 16:30:07 - INFO - Display image generated successfully.
+2025-04-01 16:30:07 - INFO - Display image generated successfully.
+2025-04-01 16:30:12 - INFO - Image displayed on e-paper successfully.
+2025-04-01 16:30:12 - INFO - Image displayed on e-paper successfully.
+2025-04-01 16:45:07 - INFO - Weather display script started.
+2025-04-01 16:45:07 - INFO - Weather display script started.
+2025-04-01 16:45:07 - INFO - Weather data fetched successfully.
+2025-04-01 16:45:07 - INFO - Weather data fetched successfully.
+2025-04-01 16:45:07 - INFO - Weather data processed successfully.
+2025-04-01 16:45:07 - INFO - Weather data processed successfully.
+2025-04-01 16:45:07 - INFO - Current data appended to CSV.
+2025-04-01 16:45:07 - INFO - Current data appended to CSV.
+2025-04-01 16:45:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-01 16:45:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-01 16:45:07 - INFO - Duplicate entries removed based on time.
+2025-04-01 16:45:07 - INFO - Duplicate entries removed based on time.
+2025-04-01 16:45:07 - INFO - Display image generated successfully.
+2025-04-01 16:45:07 - INFO - Display image generated successfully.
+2025-04-01 16:45:11 - INFO - Image displayed on e-paper successfully.
+2025-04-01 16:45:11 - INFO - Image displayed on e-paper successfully.
+2025-04-01 17:00:06 - INFO - Weather display script started.
+2025-04-01 17:00:06 - INFO - Weather display script started.
+2025-04-01 17:00:07 - INFO - Weather data fetched successfully.
+2025-04-01 17:00:07 - INFO - Weather data fetched successfully.
+2025-04-01 17:00:07 - INFO - Weather data processed successfully.
+2025-04-01 17:00:07 - INFO - Weather data processed successfully.
+2025-04-01 17:00:07 - INFO - Current data appended to CSV.
+2025-04-01 17:00:07 - INFO - Current data appended to CSV.
+2025-04-01 17:00:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-01 17:00:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-01 17:00:07 - INFO - Duplicate entries removed based on time.
+2025-04-01 17:00:07 - INFO - Duplicate entries removed based on time.
+2025-04-01 17:00:08 - INFO - Display image generated successfully.
+2025-04-01 17:00:08 - INFO - Display image generated successfully.
+2025-04-01 17:00:12 - INFO - Image displayed on e-paper successfully.
+2025-04-01 17:00:12 - INFO - Image displayed on e-paper successfully.
+2025-04-01 17:15:07 - INFO - Weather display script started.
+2025-04-01 17:15:07 - INFO - Weather display script started.
+2025-04-01 17:15:07 - INFO - Weather data fetched successfully.
+2025-04-01 17:15:07 - INFO - Weather data fetched successfully.
+2025-04-01 17:15:07 - INFO - Weather data processed successfully.
+2025-04-01 17:15:07 - INFO - Weather data processed successfully.
+2025-04-01 17:15:07 - INFO - Current data appended to CSV.
+2025-04-01 17:15:07 - INFO - Current data appended to CSV.
+2025-04-01 17:15:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-01 17:15:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-01 17:15:07 - INFO - Duplicate entries removed based on time.
+2025-04-01 17:15:07 - INFO - Duplicate entries removed based on time.
+2025-04-01 17:15:07 - INFO - Display image generated successfully.
+2025-04-01 17:15:07 - INFO - Display image generated successfully.
+2025-04-01 17:15:12 - INFO - Image displayed on e-paper successfully.
+2025-04-01 17:15:12 - INFO - Image displayed on e-paper successfully.
+2025-04-01 17:30:07 - INFO - Weather display script started.
+2025-04-01 17:30:07 - INFO - Weather display script started.
+2025-04-01 17:30:07 - INFO - Weather data fetched successfully.
+2025-04-01 17:30:07 - INFO - Weather data fetched successfully.
+2025-04-01 17:30:07 - INFO - Weather data processed successfully.
+2025-04-01 17:30:07 - INFO - Weather data processed successfully.
+2025-04-01 17:30:07 - INFO - Current data appended to CSV.
+2025-04-01 17:30:07 - INFO - Current data appended to CSV.
+2025-04-01 17:30:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-01 17:30:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-01 17:30:07 - INFO - Duplicate entries removed based on time.
+2025-04-01 17:30:07 - INFO - Duplicate entries removed based on time.
+2025-04-01 17:30:07 - INFO - Display image generated successfully.
+2025-04-01 17:30:07 - INFO - Display image generated successfully.
+2025-04-01 17:30:12 - INFO - Image displayed on e-paper successfully.
+2025-04-01 17:30:12 - INFO - Image displayed on e-paper successfully.
+2025-04-01 17:45:06 - INFO - Weather display script started.
+2025-04-01 17:45:06 - INFO - Weather display script started.
+2025-04-01 17:45:07 - INFO - Weather data fetched successfully.
+2025-04-01 17:45:07 - INFO - Weather data fetched successfully.
+2025-04-01 17:45:07 - INFO - Weather data processed successfully.
+2025-04-01 17:45:07 - INFO - Weather data processed successfully.
+2025-04-01 17:45:07 - INFO - Current data appended to CSV.
+2025-04-01 17:45:07 - INFO - Current data appended to CSV.
+2025-04-01 17:45:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-01 17:45:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-01 17:45:07 - INFO - Duplicate entries removed based on time.
+2025-04-01 17:45:07 - INFO - Duplicate entries removed based on time.
+2025-04-01 17:45:07 - INFO - Display image generated successfully.
+2025-04-01 17:45:07 - INFO - Display image generated successfully.
+2025-04-01 17:45:11 - INFO - Image displayed on e-paper successfully.
+2025-04-01 17:45:11 - INFO - Image displayed on e-paper successfully.
+2025-04-01 18:00:06 - INFO - Weather display script started.
+2025-04-01 18:00:06 - INFO - Weather display script started.
+2025-04-01 18:00:07 - INFO - Weather data fetched successfully.
+2025-04-01 18:00:07 - INFO - Weather data fetched successfully.
+2025-04-01 18:00:07 - INFO - Weather data processed successfully.
+2025-04-01 18:00:07 - INFO - Weather data processed successfully.
+2025-04-01 18:00:07 - INFO - Current data appended to CSV.
+2025-04-01 18:00:07 - INFO - Current data appended to CSV.
+2025-04-01 18:00:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-01 18:00:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-01 18:00:07 - INFO - Duplicate entries removed based on time.
+2025-04-01 18:00:07 - INFO - Duplicate entries removed based on time.
+2025-04-01 18:00:07 - INFO - Display image generated successfully.
+2025-04-01 18:00:07 - INFO - Display image generated successfully.
+2025-04-01 18:00:12 - INFO - Image displayed on e-paper successfully.
+2025-04-01 18:00:12 - INFO - Image displayed on e-paper successfully.
+2025-04-01 18:15:07 - INFO - Weather display script started.
+2025-04-01 18:15:07 - INFO - Weather display script started.
+2025-04-01 18:15:07 - INFO - Weather data fetched successfully.
+2025-04-01 18:15:07 - INFO - Weather data fetched successfully.
+2025-04-01 18:15:07 - INFO - Weather data processed successfully.
+2025-04-01 18:15:07 - INFO - Weather data processed successfully.
+2025-04-01 18:15:07 - INFO - Current data appended to CSV.
+2025-04-01 18:15:07 - INFO - Current data appended to CSV.
+2025-04-01 18:15:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-01 18:15:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-01 18:15:07 - INFO - Duplicate entries removed based on time.
+2025-04-01 18:15:07 - INFO - Duplicate entries removed based on time.
+2025-04-01 18:15:07 - INFO - Display image generated successfully.
+2025-04-01 18:15:07 - INFO - Display image generated successfully.
+2025-04-01 18:15:12 - INFO - Image displayed on e-paper successfully.
+2025-04-01 18:15:12 - INFO - Image displayed on e-paper successfully.
+2025-04-01 18:30:06 - INFO - Weather display script started.
+2025-04-01 18:30:06 - INFO - Weather display script started.
+2025-04-01 18:30:07 - INFO - Weather data fetched successfully.
+2025-04-01 18:30:07 - INFO - Weather data fetched successfully.
+2025-04-01 18:30:07 - INFO - Weather data processed successfully.
+2025-04-01 18:30:07 - INFO - Weather data processed successfully.
+2025-04-01 18:30:07 - INFO - Current data appended to CSV.
+2025-04-01 18:30:07 - INFO - Current data appended to CSV.
+2025-04-01 18:30:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-01 18:30:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-01 18:30:07 - INFO - Duplicate entries removed based on time.
+2025-04-01 18:30:07 - INFO - Duplicate entries removed based on time.
+2025-04-01 18:30:07 - INFO - Display image generated successfully.
+2025-04-01 18:30:07 - INFO - Display image generated successfully.
+2025-04-01 18:30:11 - INFO - Image displayed on e-paper successfully.
+2025-04-01 18:30:11 - INFO - Image displayed on e-paper successfully.
+2025-04-01 18:45:06 - INFO - Weather display script started.
+2025-04-01 18:45:06 - INFO - Weather display script started.
+2025-04-01 18:45:07 - INFO - Weather data fetched successfully.
+2025-04-01 18:45:07 - INFO - Weather data fetched successfully.
+2025-04-01 18:45:07 - INFO - Weather data processed successfully.
+2025-04-01 18:45:07 - INFO - Weather data processed successfully.
+2025-04-01 18:45:07 - INFO - Current data appended to CSV.
+2025-04-01 18:45:07 - INFO - Current data appended to CSV.
+2025-04-01 18:45:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-01 18:45:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-01 18:45:07 - INFO - Duplicate entries removed based on time.
+2025-04-01 18:45:07 - INFO - Duplicate entries removed based on time.
+2025-04-01 18:45:07 - INFO - Display image generated successfully.
+2025-04-01 18:45:07 - INFO - Display image generated successfully.
+2025-04-01 18:45:11 - INFO - Image displayed on e-paper successfully.
+2025-04-01 18:45:11 - INFO - Image displayed on e-paper successfully.
+2025-04-01 19:00:06 - INFO - Weather display script started.
+2025-04-01 19:00:06 - INFO - Weather display script started.
+2025-04-01 19:00:07 - INFO - Weather data fetched successfully.
+2025-04-01 19:00:07 - INFO - Weather data fetched successfully.
+2025-04-01 19:00:07 - INFO - Weather data processed successfully.
+2025-04-01 19:00:07 - INFO - Weather data processed successfully.
+2025-04-01 19:00:07 - INFO - Current data appended to CSV.
+2025-04-01 19:00:07 - INFO - Current data appended to CSV.
+2025-04-01 19:00:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-01 19:00:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-01 19:00:07 - INFO - Duplicate entries removed based on time.
+2025-04-01 19:00:07 - INFO - Duplicate entries removed based on time.
+2025-04-01 19:00:07 - INFO - Display image generated successfully.
+2025-04-01 19:00:07 - INFO - Display image generated successfully.
+2025-04-01 19:00:11 - INFO - Image displayed on e-paper successfully.
+2025-04-01 19:00:11 - INFO - Image displayed on e-paper successfully.
+2025-04-01 19:15:06 - INFO - Weather display script started.
+2025-04-01 19:15:06 - INFO - Weather display script started.
+2025-04-01 19:15:07 - INFO - Weather data fetched successfully.
+2025-04-01 19:15:07 - INFO - Weather data fetched successfully.
+2025-04-01 19:15:07 - INFO - Weather data processed successfully.
+2025-04-01 19:15:07 - INFO - Weather data processed successfully.
+2025-04-01 19:15:07 - INFO - Current data appended to CSV.
+2025-04-01 19:15:07 - INFO - Current data appended to CSV.
+2025-04-01 19:15:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-01 19:15:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-01 19:15:07 - INFO - Duplicate entries removed based on time.
+2025-04-01 19:15:07 - INFO - Duplicate entries removed based on time.
+2025-04-01 19:15:07 - INFO - Display image generated successfully.
+2025-04-01 19:15:07 - INFO - Display image generated successfully.
+2025-04-01 19:15:11 - INFO - Image displayed on e-paper successfully.
+2025-04-01 19:15:11 - INFO - Image displayed on e-paper successfully.
+2025-04-01 19:30:06 - INFO - Weather display script started.
+2025-04-01 19:30:06 - INFO - Weather display script started.
+2025-04-01 19:30:07 - INFO - Weather data fetched successfully.
+2025-04-01 19:30:07 - INFO - Weather data fetched successfully.
+2025-04-01 19:30:07 - INFO - Weather data processed successfully.
+2025-04-01 19:30:07 - INFO - Weather data processed successfully.
+2025-04-01 19:30:07 - INFO - Current data appended to CSV.
+2025-04-01 19:30:07 - INFO - Current data appended to CSV.
+2025-04-01 19:30:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-01 19:30:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-01 19:30:07 - INFO - Duplicate entries removed based on time.
+2025-04-01 19:30:07 - INFO - Duplicate entries removed based on time.
+2025-04-01 19:30:07 - INFO - Display image generated successfully.
+2025-04-01 19:30:07 - INFO - Display image generated successfully.
+2025-04-01 19:30:11 - INFO - Image displayed on e-paper successfully.
+2025-04-01 19:30:11 - INFO - Image displayed on e-paper successfully.
+2025-04-01 19:45:07 - INFO - Weather display script started.
+2025-04-01 19:45:07 - INFO - Weather display script started.
+2025-04-01 19:45:08 - INFO - Weather data fetched successfully.
+2025-04-01 19:45:08 - INFO - Weather data fetched successfully.
+2025-04-01 19:45:08 - INFO - Weather data processed successfully.
+2025-04-01 19:45:08 - INFO - Weather data processed successfully.
+2025-04-01 19:45:08 - INFO - Current data appended to CSV.
+2025-04-01 19:45:08 - INFO - Current data appended to CSV.
+2025-04-01 19:45:08 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-01 19:45:08 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-01 19:45:08 - INFO - Duplicate entries removed based on time.
+2025-04-01 19:45:08 - INFO - Duplicate entries removed based on time.
+2025-04-01 19:45:08 - INFO - Display image generated successfully.
+2025-04-01 19:45:08 - INFO - Display image generated successfully.
+2025-04-01 19:45:12 - INFO - Image displayed on e-paper successfully.
+2025-04-01 19:45:12 - INFO - Image displayed on e-paper successfully.
+2025-04-01 20:00:07 - INFO - Weather display script started.
+2025-04-01 20:00:07 - INFO - Weather display script started.
+2025-04-01 20:00:08 - INFO - Weather data fetched successfully.
+2025-04-01 20:00:08 - INFO - Weather data fetched successfully.
+2025-04-01 20:00:08 - INFO - Weather data processed successfully.
+2025-04-01 20:00:08 - INFO - Weather data processed successfully.
+2025-04-01 20:00:08 - INFO - Current data appended to CSV.
+2025-04-01 20:00:08 - INFO - Current data appended to CSV.
+2025-04-01 20:00:08 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-01 20:00:08 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-01 20:00:08 - INFO - Duplicate entries removed based on time.
+2025-04-01 20:00:08 - INFO - Duplicate entries removed based on time.
+2025-04-01 20:00:08 - INFO - Display image generated successfully.
+2025-04-01 20:00:08 - INFO - Display image generated successfully.
+2025-04-01 20:00:12 - INFO - Image displayed on e-paper successfully.
+2025-04-01 20:00:12 - INFO - Image displayed on e-paper successfully.
+2025-04-01 20:15:07 - INFO - Weather display script started.
+2025-04-01 20:15:07 - INFO - Weather display script started.
+2025-04-01 20:15:07 - INFO - Weather data fetched successfully.
+2025-04-01 20:15:07 - INFO - Weather data fetched successfully.
+2025-04-01 20:15:07 - INFO - Weather data processed successfully.
+2025-04-01 20:15:07 - INFO - Weather data processed successfully.
+2025-04-01 20:15:07 - INFO - Current data appended to CSV.
+2025-04-01 20:15:07 - INFO - Current data appended to CSV.
+2025-04-01 20:15:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-01 20:15:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-01 20:15:07 - INFO - Duplicate entries removed based on time.
+2025-04-01 20:15:07 - INFO - Duplicate entries removed based on time.
+2025-04-01 20:15:08 - INFO - Display image generated successfully.
+2025-04-01 20:15:08 - INFO - Display image generated successfully.
+2025-04-01 20:15:12 - INFO - Image displayed on e-paper successfully.
+2025-04-01 20:15:12 - INFO - Image displayed on e-paper successfully.
+2025-04-01 20:30:07 - INFO - Weather display script started.
+2025-04-01 20:30:07 - INFO - Weather display script started.
+2025-04-01 20:30:07 - INFO - Weather data fetched successfully.
+2025-04-01 20:30:07 - INFO - Weather data fetched successfully.
+2025-04-01 20:30:07 - INFO - Weather data processed successfully.
+2025-04-01 20:30:07 - INFO - Weather data processed successfully.
+2025-04-01 20:30:07 - INFO - Current data appended to CSV.
+2025-04-01 20:30:07 - INFO - Current data appended to CSV.
+2025-04-01 20:30:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-01 20:30:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-01 20:30:07 - INFO - Duplicate entries removed based on time.
+2025-04-01 20:30:07 - INFO - Duplicate entries removed based on time.
+2025-04-01 20:30:08 - INFO - Display image generated successfully.
+2025-04-01 20:30:08 - INFO - Display image generated successfully.
+2025-04-01 20:30:12 - INFO - Image displayed on e-paper successfully.
+2025-04-01 20:30:12 - INFO - Image displayed on e-paper successfully.
+2025-04-01 20:45:07 - INFO - Weather display script started.
+2025-04-01 20:45:07 - INFO - Weather display script started.
+2025-04-01 20:45:07 - INFO - Weather data fetched successfully.
+2025-04-01 20:45:07 - INFO - Weather data fetched successfully.
+2025-04-01 20:45:07 - INFO - Weather data processed successfully.
+2025-04-01 20:45:07 - INFO - Weather data processed successfully.
+2025-04-01 20:45:07 - INFO - Current data appended to CSV.
+2025-04-01 20:45:07 - INFO - Current data appended to CSV.
+2025-04-01 20:45:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-01 20:45:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-01 20:45:07 - INFO - Duplicate entries removed based on time.
+2025-04-01 20:45:07 - INFO - Duplicate entries removed based on time.
+2025-04-01 20:45:07 - INFO - Display image generated successfully.
+2025-04-01 20:45:07 - INFO - Display image generated successfully.
+2025-04-01 20:45:12 - INFO - Image displayed on e-paper successfully.
+2025-04-01 20:45:12 - INFO - Image displayed on e-paper successfully.
+2025-04-01 21:00:06 - INFO - Weather display script started.
+2025-04-01 21:00:06 - INFO - Weather display script started.
+2025-04-01 21:00:08 - INFO - Weather data fetched successfully.
+2025-04-01 21:00:08 - INFO - Weather data fetched successfully.
+2025-04-01 21:00:08 - INFO - Weather data processed successfully.
+2025-04-01 21:00:08 - INFO - Weather data processed successfully.
+2025-04-01 21:00:08 - INFO - Current data appended to CSV.
+2025-04-01 21:00:08 - INFO - Current data appended to CSV.
+2025-04-01 21:00:08 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-01 21:00:08 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-01 21:00:08 - INFO - Duplicate entries removed based on time.
+2025-04-01 21:00:08 - INFO - Duplicate entries removed based on time.
+2025-04-01 21:00:08 - INFO - Display image generated successfully.
+2025-04-01 21:00:08 - INFO - Display image generated successfully.
+2025-04-01 21:00:13 - INFO - Image displayed on e-paper successfully.
+2025-04-01 21:00:13 - INFO - Image displayed on e-paper successfully.
+2025-04-01 21:26:59 - INFO - Weather display script started.
+2025-04-01 21:27:00 - INFO - Weather data fetched successfully.
+2025-04-01 21:27:00 - INFO - Weather data processed successfully.
+2025-04-01 21:27:00 - INFO - Current data appended to CSV.
+2025-04-01 21:27:00 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-01 21:27:00 - ERROR - Failed to save data to CSV: [Errno 2] No such file or directory: '/home/konstipi/e_paper_weather_display_gc/current_conditions_records.csv'
+2025-04-01 21:27:00 - INFO - Display image generated successfully.
+2025-04-01 21:27:04 - INFO - Image displayed on e-paper successfully.
+2025-04-01 21:28:13 - INFO - Weather display script started.
+2025-04-01 21:28:13 - INFO - Weather data fetched successfully.
+2025-04-01 21:28:13 - INFO - Weather data processed successfully.
+2025-04-01 21:28:13 - INFO - Current data appended to CSV.
+2025-04-01 21:28:13 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-01 21:28:13 - ERROR - Failed to save data to CSV: [Errno 2] No such file or directory: '/home/konstipi/waveshare_eink_weather_dashboard/current_conditions_records.csv'
+2025-04-01 21:28:13 - INFO - Display image generated successfully.
+2025-04-01 21:28:18 - INFO - Image displayed on e-paper successfully.
+2025-04-01 21:31:04 - INFO - Weather display script started.
+2025-04-01 21:31:04 - INFO - Weather data fetched successfully.
+2025-04-01 21:31:04 - INFO - Weather data processed successfully.
+2025-04-01 21:31:04 - INFO - Current data appended to CSV.
+2025-04-01 21:31:04 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-01 21:31:04 - INFO - Duplicate entries removed based on time.
+2025-04-01 21:31:04 - INFO - Display image generated successfully.
+2025-04-01 21:31:09 - INFO - Image displayed on e-paper successfully.
+2025-04-01 21:45:07 - INFO - Weather display script started.
+2025-04-01 21:45:07 - INFO - Weather display script started.
+2025-04-01 21:45:07 - INFO - Weather data fetched successfully.
+2025-04-01 21:45:07 - INFO - Weather data fetched successfully.
+2025-04-01 21:45:07 - INFO - Weather data processed successfully.
+2025-04-01 21:45:07 - INFO - Weather data processed successfully.
+2025-04-01 21:45:07 - INFO - Current data appended to CSV.
+2025-04-01 21:45:07 - INFO - Current data appended to CSV.
+2025-04-01 21:45:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-01 21:45:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-01 21:45:07 - INFO - Duplicate entries removed based on time.
+2025-04-01 21:45:07 - INFO - Duplicate entries removed based on time.
+2025-04-01 21:45:07 - INFO - Display image generated successfully.
+2025-04-01 21:45:07 - INFO - Display image generated successfully.
+2025-04-01 21:45:12 - INFO - Image displayed on e-paper successfully.
+2025-04-01 21:45:12 - INFO - Image displayed on e-paper successfully.
+2025-04-01 22:00:07 - INFO - Weather display script started.
+2025-04-01 22:00:07 - INFO - Weather display script started.
+2025-04-01 22:00:08 - INFO - Weather data fetched successfully.
+2025-04-01 22:00:08 - INFO - Weather data fetched successfully.
+2025-04-01 22:00:08 - INFO - Weather data processed successfully.
+2025-04-01 22:00:08 - INFO - Weather data processed successfully.
+2025-04-01 22:00:08 - INFO - Current data appended to CSV.
+2025-04-01 22:00:08 - INFO - Current data appended to CSV.
+2025-04-01 22:00:08 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-01 22:00:08 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-01 22:00:08 - INFO - Duplicate entries removed based on time.
+2025-04-01 22:00:08 - INFO - Duplicate entries removed based on time.
+2025-04-01 22:00:08 - INFO - Display image generated successfully.
+2025-04-01 22:00:08 - INFO - Display image generated successfully.
+2025-04-01 22:00:12 - INFO - Image displayed on e-paper successfully.
+2025-04-01 22:00:12 - INFO - Image displayed on e-paper successfully.
+2025-04-01 22:15:06 - INFO - Weather display script started.
+2025-04-01 22:15:06 - INFO - Weather display script started.
+2025-04-01 22:15:07 - INFO - Weather data fetched successfully.
+2025-04-01 22:15:07 - INFO - Weather data fetched successfully.
+2025-04-01 22:15:07 - INFO - Weather data processed successfully.
+2025-04-01 22:15:07 - INFO - Weather data processed successfully.
+2025-04-01 22:15:07 - INFO - Current data appended to CSV.
+2025-04-01 22:15:07 - INFO - Current data appended to CSV.
+2025-04-01 22:15:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-01 22:15:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-01 22:15:07 - INFO - Duplicate entries removed based on time.
+2025-04-01 22:15:07 - INFO - Duplicate entries removed based on time.
+2025-04-01 22:15:07 - INFO - Display image generated successfully.
+2025-04-01 22:15:07 - INFO - Display image generated successfully.
+2025-04-01 22:15:11 - INFO - Image displayed on e-paper successfully.
+2025-04-01 22:15:11 - INFO - Image displayed on e-paper successfully.
+2025-04-01 22:30:06 - INFO - Weather display script started.
+2025-04-01 22:30:06 - INFO - Weather display script started.
+2025-04-01 22:30:07 - INFO - Weather data fetched successfully.
+2025-04-01 22:30:07 - INFO - Weather data fetched successfully.
+2025-04-01 22:30:07 - INFO - Weather data processed successfully.
+2025-04-01 22:30:07 - INFO - Weather data processed successfully.
+2025-04-01 22:30:07 - INFO - Current data appended to CSV.
+2025-04-01 22:30:07 - INFO - Current data appended to CSV.
+2025-04-01 22:30:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-01 22:30:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-01 22:30:07 - INFO - Duplicate entries removed based on time.
+2025-04-01 22:30:07 - INFO - Duplicate entries removed based on time.
+2025-04-01 22:30:07 - INFO - Display image generated successfully.
+2025-04-01 22:30:07 - INFO - Display image generated successfully.
+2025-04-01 22:30:11 - INFO - Image displayed on e-paper successfully.
+2025-04-01 22:30:11 - INFO - Image displayed on e-paper successfully.
+2025-04-01 22:45:06 - INFO - Weather display script started.
+2025-04-01 22:45:06 - INFO - Weather display script started.
+2025-04-01 22:45:07 - INFO - Weather data fetched successfully.
+2025-04-01 22:45:07 - INFO - Weather data fetched successfully.
+2025-04-01 22:45:07 - INFO - Weather data processed successfully.
+2025-04-01 22:45:07 - INFO - Weather data processed successfully.
+2025-04-01 22:45:07 - INFO - Current data appended to CSV.
+2025-04-01 22:45:07 - INFO - Current data appended to CSV.
+2025-04-01 22:45:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-01 22:45:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-01 22:45:07 - INFO - Duplicate entries removed based on time.
+2025-04-01 22:45:07 - INFO - Duplicate entries removed based on time.
+2025-04-01 22:45:07 - INFO - Display image generated successfully.
+2025-04-01 22:45:07 - INFO - Display image generated successfully.
+2025-04-01 22:45:11 - INFO - Image displayed on e-paper successfully.
+2025-04-01 22:45:11 - INFO - Image displayed on e-paper successfully.
+2025-04-01 23:00:07 - INFO - Weather display script started.
+2025-04-01 23:00:07 - INFO - Weather display script started.
+2025-04-01 23:00:07 - INFO - Weather data fetched successfully.
+2025-04-01 23:00:07 - INFO - Weather data fetched successfully.
+2025-04-01 23:00:08 - INFO - Weather data processed successfully.
+2025-04-01 23:00:08 - INFO - Weather data processed successfully.
+2025-04-01 23:00:08 - INFO - Current data appended to CSV.
+2025-04-01 23:00:08 - INFO - Current data appended to CSV.
+2025-04-01 23:00:08 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-01 23:00:08 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-01 23:00:08 - INFO - Duplicate entries removed based on time.
+2025-04-01 23:00:08 - INFO - Duplicate entries removed based on time.
+2025-04-01 23:00:08 - INFO - Display image generated successfully.
+2025-04-01 23:00:08 - INFO - Display image generated successfully.
+2025-04-01 23:00:12 - INFO - Image displayed on e-paper successfully.
+2025-04-01 23:00:12 - INFO - Image displayed on e-paper successfully.
+2025-04-01 23:15:07 - INFO - Weather display script started.
+2025-04-01 23:15:07 - INFO - Weather display script started.
+2025-04-01 23:15:07 - INFO - Weather data fetched successfully.
+2025-04-01 23:15:07 - INFO - Weather data fetched successfully.
+2025-04-01 23:15:07 - INFO - Weather data processed successfully.
+2025-04-01 23:15:07 - INFO - Weather data processed successfully.
+2025-04-01 23:15:07 - INFO - Current data appended to CSV.
+2025-04-01 23:15:07 - INFO - Current data appended to CSV.
+2025-04-01 23:15:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-01 23:15:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-01 23:15:07 - INFO - Duplicate entries removed based on time.
+2025-04-01 23:15:07 - INFO - Duplicate entries removed based on time.
+2025-04-01 23:15:08 - INFO - Display image generated successfully.
+2025-04-01 23:15:08 - INFO - Display image generated successfully.
+2025-04-01 23:15:12 - INFO - Image displayed on e-paper successfully.
+2025-04-01 23:15:12 - INFO - Image displayed on e-paper successfully.
+2025-04-01 23:30:07 - INFO - Weather display script started.
+2025-04-01 23:30:07 - INFO - Weather display script started.
+2025-04-01 23:30:07 - INFO - Weather data fetched successfully.
+2025-04-01 23:30:07 - INFO - Weather data fetched successfully.
+2025-04-01 23:30:07 - INFO - Weather data processed successfully.
+2025-04-01 23:30:07 - INFO - Weather data processed successfully.
+2025-04-01 23:30:07 - INFO - Current data appended to CSV.
+2025-04-01 23:30:07 - INFO - Current data appended to CSV.
+2025-04-01 23:30:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-01 23:30:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-01 23:30:07 - INFO - Duplicate entries removed based on time.
+2025-04-01 23:30:07 - INFO - Duplicate entries removed based on time.
+2025-04-01 23:30:07 - INFO - Display image generated successfully.
+2025-04-01 23:30:07 - INFO - Display image generated successfully.
+2025-04-01 23:30:12 - INFO - Image displayed on e-paper successfully.
+2025-04-01 23:30:12 - INFO - Image displayed on e-paper successfully.
+2025-04-01 23:45:07 - INFO - Weather display script started.
+2025-04-01 23:45:07 - INFO - Weather display script started.
+2025-04-01 23:45:07 - INFO - Weather data fetched successfully.
+2025-04-01 23:45:07 - INFO - Weather data fetched successfully.
+2025-04-01 23:45:07 - INFO - Weather data processed successfully.
+2025-04-01 23:45:07 - INFO - Weather data processed successfully.
+2025-04-01 23:45:07 - INFO - Current data appended to CSV.
+2025-04-01 23:45:07 - INFO - Current data appended to CSV.
+2025-04-01 23:45:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-01 23:45:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-01 23:45:07 - INFO - Duplicate entries removed based on time.
+2025-04-01 23:45:07 - INFO - Duplicate entries removed based on time.
+2025-04-01 23:45:07 - INFO - Display image generated successfully.
+2025-04-01 23:45:07 - INFO - Display image generated successfully.
+2025-04-01 23:45:12 - INFO - Image displayed on e-paper successfully.
+2025-04-01 23:45:12 - INFO - Image displayed on e-paper successfully.
+2025-04-02 06:00:09 - INFO - Weather display script started.
+2025-04-02 06:00:09 - INFO - Weather display script started.
+2025-04-02 06:00:09 - INFO - Weather data fetched successfully.
+2025-04-02 06:00:09 - INFO - Weather data fetched successfully.
+2025-04-02 06:00:09 - INFO - Weather data processed successfully.
+2025-04-02 06:00:09 - INFO - Weather data processed successfully.
+2025-04-02 06:00:09 - INFO - Current data appended to CSV.
+2025-04-02 06:00:09 - INFO - Current data appended to CSV.
+2025-04-02 06:00:09 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-02 06:00:09 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-02 06:00:09 - INFO - Duplicate entries removed based on time.
+2025-04-02 06:00:09 - INFO - Duplicate entries removed based on time.
+2025-04-02 06:00:09 - INFO - Display image generated successfully.
+2025-04-02 06:00:09 - INFO - Display image generated successfully.
+2025-04-02 06:00:15 - INFO - Image displayed on e-paper successfully.
+2025-04-02 06:00:15 - INFO - Image displayed on e-paper successfully.
+2025-04-02 06:15:08 - INFO - Weather display script started.
+2025-04-02 06:15:08 - INFO - Weather display script started.
+2025-04-02 06:15:08 - INFO - Weather data fetched successfully.
+2025-04-02 06:15:08 - INFO - Weather data fetched successfully.
+2025-04-02 06:15:09 - INFO - Weather data processed successfully.
+2025-04-02 06:15:09 - INFO - Weather data processed successfully.
+2025-04-02 06:15:09 - INFO - Current data appended to CSV.
+2025-04-02 06:15:09 - INFO - Current data appended to CSV.
+2025-04-02 06:15:09 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-02 06:15:09 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-02 06:15:09 - INFO - Duplicate entries removed based on time.
+2025-04-02 06:15:09 - INFO - Duplicate entries removed based on time.
+2025-04-02 06:15:09 - INFO - Display image generated successfully.
+2025-04-02 06:15:09 - INFO - Display image generated successfully.
+2025-04-02 06:15:15 - INFO - Image displayed on e-paper successfully.
+2025-04-02 06:15:15 - INFO - Image displayed on e-paper successfully.
+2025-04-02 06:30:09 - INFO - Weather display script started.
+2025-04-02 06:30:09 - INFO - Weather display script started.
+2025-04-02 06:30:09 - INFO - Weather data fetched successfully.
+2025-04-02 06:30:09 - INFO - Weather data fetched successfully.
+2025-04-02 06:30:09 - INFO - Weather data processed successfully.
+2025-04-02 06:30:09 - INFO - Weather data processed successfully.
+2025-04-02 06:30:09 - INFO - Current data appended to CSV.
+2025-04-02 06:30:09 - INFO - Current data appended to CSV.
+2025-04-02 06:30:09 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-02 06:30:09 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-02 06:30:09 - INFO - Duplicate entries removed based on time.
+2025-04-02 06:30:09 - INFO - Duplicate entries removed based on time.
+2025-04-02 06:30:09 - INFO - Display image generated successfully.
+2025-04-02 06:30:09 - INFO - Display image generated successfully.
+2025-04-02 06:30:15 - INFO - Image displayed on e-paper successfully.
+2025-04-02 06:30:15 - INFO - Image displayed on e-paper successfully.
+2025-04-02 06:45:08 - INFO - Weather display script started.
+2025-04-02 06:45:08 - INFO - Weather display script started.
+2025-04-02 06:45:08 - INFO - Weather data fetched successfully.
+2025-04-02 06:45:08 - INFO - Weather data fetched successfully.
+2025-04-02 06:45:08 - INFO - Weather data processed successfully.
+2025-04-02 06:45:08 - INFO - Weather data processed successfully.
+2025-04-02 06:45:08 - INFO - Current data appended to CSV.
+2025-04-02 06:45:08 - INFO - Current data appended to CSV.
+2025-04-02 06:45:08 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-02 06:45:08 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-02 06:45:08 - INFO - Duplicate entries removed based on time.
+2025-04-02 06:45:08 - INFO - Duplicate entries removed based on time.
+2025-04-02 06:45:09 - INFO - Display image generated successfully.
+2025-04-02 06:45:09 - INFO - Display image generated successfully.
+2025-04-02 06:45:15 - INFO - Image displayed on e-paper successfully.
+2025-04-02 06:45:15 - INFO - Image displayed on e-paper successfully.
+2025-04-02 07:00:08 - INFO - Weather display script started.
+2025-04-02 07:00:08 - INFO - Weather display script started.
+2025-04-02 07:00:09 - INFO - Weather data fetched successfully.
+2025-04-02 07:00:09 - INFO - Weather data fetched successfully.
+2025-04-02 07:00:09 - INFO - Weather data processed successfully.
+2025-04-02 07:00:09 - INFO - Weather data processed successfully.
+2025-04-02 07:00:09 - INFO - Current data appended to CSV.
+2025-04-02 07:00:09 - INFO - Current data appended to CSV.
+2025-04-02 07:00:09 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-02 07:00:09 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-02 07:00:09 - INFO - Duplicate entries removed based on time.
+2025-04-02 07:00:09 - INFO - Duplicate entries removed based on time.
+2025-04-02 07:00:09 - INFO - Display image generated successfully.
+2025-04-02 07:00:09 - INFO - Display image generated successfully.
+2025-04-02 07:00:15 - INFO - Image displayed on e-paper successfully.
+2025-04-02 07:00:15 - INFO - Image displayed on e-paper successfully.
+2025-04-02 07:15:09 - INFO - Weather display script started.
+2025-04-02 07:15:09 - INFO - Weather display script started.
+2025-04-02 07:15:09 - INFO - Weather data fetched successfully.
+2025-04-02 07:15:09 - INFO - Weather data fetched successfully.
+2025-04-02 07:15:09 - INFO - Weather data processed successfully.
+2025-04-02 07:15:09 - INFO - Weather data processed successfully.
+2025-04-02 07:15:09 - INFO - Current data appended to CSV.
+2025-04-02 07:15:09 - INFO - Current data appended to CSV.
+2025-04-02 07:15:09 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-02 07:15:09 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-02 07:15:09 - INFO - Duplicate entries removed based on time.
+2025-04-02 07:15:09 - INFO - Duplicate entries removed based on time.
+2025-04-02 07:15:10 - INFO - Display image generated successfully.
+2025-04-02 07:15:10 - INFO - Display image generated successfully.
+2025-04-02 07:15:16 - INFO - Image displayed on e-paper successfully.
+2025-04-02 07:15:16 - INFO - Image displayed on e-paper successfully.
+2025-04-02 07:30:08 - INFO - Weather display script started.
+2025-04-02 07:30:08 - INFO - Weather display script started.
+2025-04-02 07:30:09 - INFO - Weather data fetched successfully.
+2025-04-02 07:30:09 - INFO - Weather data fetched successfully.
+2025-04-02 07:30:09 - INFO - Weather data processed successfully.
+2025-04-02 07:30:09 - INFO - Weather data processed successfully.
+2025-04-02 07:30:09 - INFO - Current data appended to CSV.
+2025-04-02 07:30:09 - INFO - Current data appended to CSV.
+2025-04-02 07:30:09 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-02 07:30:09 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-02 07:30:09 - INFO - Duplicate entries removed based on time.
+2025-04-02 07:30:09 - INFO - Duplicate entries removed based on time.
+2025-04-02 07:30:09 - INFO - Display image generated successfully.
+2025-04-02 07:30:09 - INFO - Display image generated successfully.
+2025-04-02 07:30:15 - INFO - Image displayed on e-paper successfully.
+2025-04-02 07:30:15 - INFO - Image displayed on e-paper successfully.
+2025-04-02 07:45:09 - INFO - Weather display script started.
+2025-04-02 07:45:09 - INFO - Weather display script started.
+2025-04-02 07:45:09 - INFO - Weather data fetched successfully.
+2025-04-02 07:45:09 - INFO - Weather data fetched successfully.
+2025-04-02 07:45:09 - INFO - Weather data processed successfully.
+2025-04-02 07:45:09 - INFO - Weather data processed successfully.
+2025-04-02 07:45:09 - INFO - Current data appended to CSV.
+2025-04-02 07:45:09 - INFO - Current data appended to CSV.
+2025-04-02 07:45:09 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-02 07:45:09 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-02 07:45:09 - INFO - Duplicate entries removed based on time.
+2025-04-02 07:45:09 - INFO - Duplicate entries removed based on time.
+2025-04-02 07:45:10 - INFO - Display image generated successfully.
+2025-04-02 07:45:10 - INFO - Display image generated successfully.
+2025-04-02 07:45:16 - INFO - Image displayed on e-paper successfully.
+2025-04-02 07:45:16 - INFO - Image displayed on e-paper successfully.
+2025-04-02 08:00:08 - INFO - Weather display script started.
+2025-04-02 08:00:08 - INFO - Weather display script started.
+2025-04-02 08:00:09 - INFO - Weather data fetched successfully.
+2025-04-02 08:00:09 - INFO - Weather data fetched successfully.
+2025-04-02 08:00:09 - INFO - Weather data processed successfully.
+2025-04-02 08:00:09 - INFO - Weather data processed successfully.
+2025-04-02 08:00:09 - INFO - Current data appended to CSV.
+2025-04-02 08:00:09 - INFO - Current data appended to CSV.
+2025-04-02 08:00:09 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-02 08:00:09 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-02 08:00:09 - INFO - Duplicate entries removed based on time.
+2025-04-02 08:00:09 - INFO - Duplicate entries removed based on time.
+2025-04-02 08:00:09 - INFO - Display image generated successfully.
+2025-04-02 08:00:09 - INFO - Display image generated successfully.
+2025-04-02 08:00:15 - INFO - Image displayed on e-paper successfully.
+2025-04-02 08:00:15 - INFO - Image displayed on e-paper successfully.
+2025-04-02 08:15:09 - INFO - Weather display script started.
+2025-04-02 08:15:09 - INFO - Weather display script started.
+2025-04-02 08:15:09 - INFO - Weather data fetched successfully.
+2025-04-02 08:15:09 - INFO - Weather data fetched successfully.
+2025-04-02 08:15:09 - INFO - Weather data processed successfully.
+2025-04-02 08:15:09 - INFO - Weather data processed successfully.
+2025-04-02 08:15:09 - INFO - Current data appended to CSV.
+2025-04-02 08:15:09 - INFO - Current data appended to CSV.
+2025-04-02 08:15:09 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-02 08:15:09 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-02 08:15:09 - INFO - Duplicate entries removed based on time.
+2025-04-02 08:15:09 - INFO - Duplicate entries removed based on time.
+2025-04-02 08:15:09 - INFO - Display image generated successfully.
+2025-04-02 08:15:09 - INFO - Display image generated successfully.
+2025-04-02 08:15:16 - INFO - Image displayed on e-paper successfully.
+2025-04-02 08:15:16 - INFO - Image displayed on e-paper successfully.
+2025-04-02 08:30:08 - INFO - Weather display script started.
+2025-04-02 08:30:08 - INFO - Weather display script started.
+2025-04-02 08:30:09 - INFO - Weather data fetched successfully.
+2025-04-02 08:30:09 - INFO - Weather data fetched successfully.
+2025-04-02 08:30:09 - INFO - Weather data processed successfully.
+2025-04-02 08:30:09 - INFO - Weather data processed successfully.
+2025-04-02 08:30:09 - INFO - Current data appended to CSV.
+2025-04-02 08:30:09 - INFO - Current data appended to CSV.
+2025-04-02 08:30:09 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-02 08:30:09 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-02 08:30:09 - INFO - Duplicate entries removed based on time.
+2025-04-02 08:30:09 - INFO - Duplicate entries removed based on time.
+2025-04-02 08:30:09 - INFO - Display image generated successfully.
+2025-04-02 08:30:09 - INFO - Display image generated successfully.
+2025-04-02 08:30:15 - INFO - Image displayed on e-paper successfully.
+2025-04-02 08:30:15 - INFO - Image displayed on e-paper successfully.
+2025-04-02 08:45:07 - INFO - Weather display script started.
+2025-04-02 08:45:07 - INFO - Weather display script started.
+2025-04-02 08:45:07 - INFO - Weather data fetched successfully.
+2025-04-02 08:45:07 - INFO - Weather data fetched successfully.
+2025-04-02 08:45:07 - INFO - Weather data processed successfully.
+2025-04-02 08:45:07 - INFO - Weather data processed successfully.
+2025-04-02 08:45:07 - INFO - Current data appended to CSV.
+2025-04-02 08:45:07 - INFO - Current data appended to CSV.
+2025-04-02 08:45:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-02 08:45:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-02 08:45:07 - INFO - Duplicate entries removed based on time.
+2025-04-02 08:45:07 - INFO - Duplicate entries removed based on time.
+2025-04-02 08:45:08 - INFO - Display image generated successfully.
+2025-04-02 08:45:08 - INFO - Display image generated successfully.
+2025-04-02 08:45:12 - INFO - Image displayed on e-paper successfully.
+2025-04-02 08:45:12 - INFO - Image displayed on e-paper successfully.
+2025-04-02 09:00:07 - INFO - Weather display script started.
+2025-04-02 09:00:07 - INFO - Weather display script started.
+2025-04-02 09:00:08 - INFO - Weather data fetched successfully.
+2025-04-02 09:00:08 - INFO - Weather data fetched successfully.
+2025-04-02 09:00:08 - INFO - Weather data processed successfully.
+2025-04-02 09:00:08 - INFO - Weather data processed successfully.
+2025-04-02 09:00:08 - INFO - Current data appended to CSV.
+2025-04-02 09:00:08 - INFO - Current data appended to CSV.
+2025-04-02 09:00:08 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-02 09:00:08 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-02 09:00:08 - INFO - Duplicate entries removed based on time.
+2025-04-02 09:00:08 - INFO - Duplicate entries removed based on time.
+2025-04-02 09:00:08 - INFO - Display image generated successfully.
+2025-04-02 09:00:08 - INFO - Display image generated successfully.
+2025-04-02 09:00:12 - INFO - Image displayed on e-paper successfully.
+2025-04-02 09:00:12 - INFO - Image displayed on e-paper successfully.
+2025-04-02 09:15:07 - INFO - Weather display script started.
+2025-04-02 09:15:07 - INFO - Weather display script started.
+2025-04-02 09:15:08 - INFO - Weather data fetched successfully.
+2025-04-02 09:15:08 - INFO - Weather data fetched successfully.
+2025-04-02 09:15:08 - INFO - Weather data processed successfully.
+2025-04-02 09:15:08 - INFO - Weather data processed successfully.
+2025-04-02 09:15:08 - INFO - Current data appended to CSV.
+2025-04-02 09:15:08 - INFO - Current data appended to CSV.
+2025-04-02 09:15:08 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-02 09:15:08 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-02 09:15:08 - INFO - Duplicate entries removed based on time.
+2025-04-02 09:15:08 - INFO - Duplicate entries removed based on time.
+2025-04-02 09:15:08 - INFO - Display image generated successfully.
+2025-04-02 09:15:08 - INFO - Display image generated successfully.
+2025-04-02 09:15:12 - INFO - Image displayed on e-paper successfully.
+2025-04-02 09:15:12 - INFO - Image displayed on e-paper successfully.
+2025-04-02 09:30:07 - INFO - Weather display script started.
+2025-04-02 09:30:07 - INFO - Weather display script started.
+2025-04-02 09:30:07 - INFO - Weather data fetched successfully.
+2025-04-02 09:30:07 - INFO - Weather data fetched successfully.
+2025-04-02 09:30:07 - INFO - Weather data processed successfully.
+2025-04-02 09:30:07 - INFO - Weather data processed successfully.
+2025-04-02 09:30:07 - INFO - Current data appended to CSV.
+2025-04-02 09:30:07 - INFO - Current data appended to CSV.
+2025-04-02 09:30:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-02 09:30:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-02 09:30:07 - INFO - Duplicate entries removed based on time.
+2025-04-02 09:30:07 - INFO - Duplicate entries removed based on time.
+2025-04-02 09:30:08 - INFO - Display image generated successfully.
+2025-04-02 09:30:08 - INFO - Display image generated successfully.
+2025-04-02 09:30:12 - INFO - Image displayed on e-paper successfully.
+2025-04-02 09:30:12 - INFO - Image displayed on e-paper successfully.
+2025-04-02 09:45:07 - INFO - Weather display script started.
+2025-04-02 09:45:07 - INFO - Weather display script started.
+2025-04-02 09:45:07 - INFO - Weather data fetched successfully.
+2025-04-02 09:45:07 - INFO - Weather data fetched successfully.
+2025-04-02 09:45:07 - INFO - Weather data processed successfully.
+2025-04-02 09:45:07 - INFO - Weather data processed successfully.
+2025-04-02 09:45:07 - INFO - Current data appended to CSV.
+2025-04-02 09:45:07 - INFO - Current data appended to CSV.
+2025-04-02 09:45:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-02 09:45:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-02 09:45:07 - INFO - Duplicate entries removed based on time.
+2025-04-02 09:45:07 - INFO - Duplicate entries removed based on time.
+2025-04-02 09:45:07 - INFO - Display image generated successfully.
+2025-04-02 09:45:07 - INFO - Display image generated successfully.
+2025-04-02 09:45:12 - INFO - Image displayed on e-paper successfully.
+2025-04-02 09:45:12 - INFO - Image displayed on e-paper successfully.
+2025-04-02 10:00:07 - INFO - Weather display script started.
+2025-04-02 10:00:07 - INFO - Weather display script started.
+2025-04-02 10:00:08 - INFO - Weather data fetched successfully.
+2025-04-02 10:00:08 - INFO - Weather data fetched successfully.
+2025-04-02 10:00:08 - INFO - Weather data processed successfully.
+2025-04-02 10:00:08 - INFO - Weather data processed successfully.
+2025-04-02 10:00:08 - INFO - Current data appended to CSV.
+2025-04-02 10:00:08 - INFO - Current data appended to CSV.
+2025-04-02 10:00:08 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-02 10:00:08 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-02 10:00:08 - INFO - Duplicate entries removed based on time.
+2025-04-02 10:00:08 - INFO - Duplicate entries removed based on time.
+2025-04-02 10:00:08 - INFO - Display image generated successfully.
+2025-04-02 10:00:08 - INFO - Display image generated successfully.
+2025-04-02 10:00:12 - INFO - Image displayed on e-paper successfully.
+2025-04-02 10:00:12 - INFO - Image displayed on e-paper successfully.
+2025-04-02 10:15:07 - INFO - Weather display script started.
+2025-04-02 10:15:07 - INFO - Weather display script started.
+2025-04-02 10:15:07 - INFO - Weather data fetched successfully.
+2025-04-02 10:15:07 - INFO - Weather data fetched successfully.
+2025-04-02 10:15:07 - INFO - Weather data processed successfully.
+2025-04-02 10:15:07 - INFO - Weather data processed successfully.
+2025-04-02 10:15:07 - INFO - Current data appended to CSV.
+2025-04-02 10:15:07 - INFO - Current data appended to CSV.
+2025-04-02 10:15:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-02 10:15:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-02 10:15:07 - INFO - Duplicate entries removed based on time.
+2025-04-02 10:15:07 - INFO - Duplicate entries removed based on time.
+2025-04-02 10:15:08 - INFO - Display image generated successfully.
+2025-04-02 10:15:08 - INFO - Display image generated successfully.
+2025-04-02 10:15:12 - INFO - Image displayed on e-paper successfully.
+2025-04-02 10:15:12 - INFO - Image displayed on e-paper successfully.
+2025-04-02 10:30:07 - INFO - Weather display script started.
+2025-04-02 10:30:07 - INFO - Weather display script started.
+2025-04-02 10:30:07 - INFO - Weather data fetched successfully.
+2025-04-02 10:30:07 - INFO - Weather data fetched successfully.
+2025-04-02 10:30:07 - INFO - Weather data processed successfully.
+2025-04-02 10:30:07 - INFO - Weather data processed successfully.
+2025-04-02 10:30:07 - INFO - Current data appended to CSV.
+2025-04-02 10:30:07 - INFO - Current data appended to CSV.
+2025-04-02 10:30:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-02 10:30:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-02 10:30:07 - INFO - Duplicate entries removed based on time.
+2025-04-02 10:30:07 - INFO - Duplicate entries removed based on time.
+2025-04-02 10:30:08 - INFO - Display image generated successfully.
+2025-04-02 10:30:08 - INFO - Display image generated successfully.
+2025-04-02 10:30:12 - INFO - Image displayed on e-paper successfully.
+2025-04-02 10:30:12 - INFO - Image displayed on e-paper successfully.
+2025-04-02 10:45:07 - INFO - Weather display script started.
+2025-04-02 10:45:07 - INFO - Weather display script started.
+2025-04-02 10:45:07 - INFO - Weather data fetched successfully.
+2025-04-02 10:45:07 - INFO - Weather data fetched successfully.
+2025-04-02 10:45:07 - INFO - Weather data processed successfully.
+2025-04-02 10:45:07 - INFO - Weather data processed successfully.
+2025-04-02 10:45:07 - INFO - Current data appended to CSV.
+2025-04-02 10:45:07 - INFO - Current data appended to CSV.
+2025-04-02 10:45:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-02 10:45:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-02 10:45:07 - INFO - Duplicate entries removed based on time.
+2025-04-02 10:45:07 - INFO - Duplicate entries removed based on time.
+2025-04-02 10:45:07 - INFO - Display image generated successfully.
+2025-04-02 10:45:07 - INFO - Display image generated successfully.
+2025-04-02 10:45:12 - INFO - Image displayed on e-paper successfully.
+2025-04-02 10:45:12 - INFO - Image displayed on e-paper successfully.
+2025-04-02 11:00:07 - INFO - Weather display script started.
+2025-04-02 11:00:07 - INFO - Weather display script started.
+2025-04-02 11:00:07 - INFO - Weather data fetched successfully.
+2025-04-02 11:00:07 - INFO - Weather data fetched successfully.
+2025-04-02 11:00:07 - INFO - Weather data processed successfully.
+2025-04-02 11:00:07 - INFO - Weather data processed successfully.
+2025-04-02 11:00:07 - INFO - Current data appended to CSV.
+2025-04-02 11:00:07 - INFO - Current data appended to CSV.
+2025-04-02 11:00:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-02 11:00:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-02 11:00:07 - INFO - Duplicate entries removed based on time.
+2025-04-02 11:00:07 - INFO - Duplicate entries removed based on time.
+2025-04-02 11:00:07 - INFO - Display image generated successfully.
+2025-04-02 11:00:07 - INFO - Display image generated successfully.
+2025-04-02 11:00:12 - INFO - Image displayed on e-paper successfully.
+2025-04-02 11:00:12 - INFO - Image displayed on e-paper successfully.
+2025-04-02 11:15:06 - INFO - Weather display script started.
+2025-04-02 11:15:06 - INFO - Weather display script started.
+2025-04-02 11:15:07 - INFO - Weather data fetched successfully.
+2025-04-02 11:15:07 - INFO - Weather data fetched successfully.
+2025-04-02 11:15:07 - INFO - Weather data processed successfully.
+2025-04-02 11:15:07 - INFO - Weather data processed successfully.
+2025-04-02 11:15:07 - INFO - Current data appended to CSV.
+2025-04-02 11:15:07 - INFO - Current data appended to CSV.
+2025-04-02 11:15:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-02 11:15:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-02 11:15:07 - INFO - Duplicate entries removed based on time.
+2025-04-02 11:15:07 - INFO - Duplicate entries removed based on time.
+2025-04-02 11:15:07 - INFO - Display image generated successfully.
+2025-04-02 11:15:07 - INFO - Display image generated successfully.
+2025-04-02 11:15:11 - INFO - Image displayed on e-paper successfully.
+2025-04-02 11:15:11 - INFO - Image displayed on e-paper successfully.
+2025-04-02 11:30:06 - INFO - Weather display script started.
+2025-04-02 11:30:06 - INFO - Weather display script started.
+2025-04-02 11:30:07 - INFO - Weather data fetched successfully.
+2025-04-02 11:30:07 - INFO - Weather data fetched successfully.
+2025-04-02 11:30:07 - INFO - Weather data processed successfully.
+2025-04-02 11:30:07 - INFO - Weather data processed successfully.
+2025-04-02 11:30:07 - INFO - Current data appended to CSV.
+2025-04-02 11:30:07 - INFO - Current data appended to CSV.
+2025-04-02 11:30:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-02 11:30:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-02 11:30:07 - INFO - Duplicate entries removed based on time.
+2025-04-02 11:30:07 - INFO - Duplicate entries removed based on time.
+2025-04-02 11:30:07 - INFO - Display image generated successfully.
+2025-04-02 11:30:07 - INFO - Display image generated successfully.
+2025-04-02 11:30:11 - INFO - Image displayed on e-paper successfully.
+2025-04-02 11:30:11 - INFO - Image displayed on e-paper successfully.
+2025-04-02 11:45:06 - INFO - Weather display script started.
+2025-04-02 11:45:06 - INFO - Weather display script started.
+2025-04-02 11:45:07 - INFO - Weather data fetched successfully.
+2025-04-02 11:45:07 - INFO - Weather data fetched successfully.
+2025-04-02 11:45:07 - INFO - Weather data processed successfully.
+2025-04-02 11:45:07 - INFO - Weather data processed successfully.
+2025-04-02 11:45:07 - INFO - Current data appended to CSV.
+2025-04-02 11:45:07 - INFO - Current data appended to CSV.
+2025-04-02 11:45:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-02 11:45:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-02 11:45:07 - INFO - Duplicate entries removed based on time.
+2025-04-02 11:45:07 - INFO - Duplicate entries removed based on time.
+2025-04-02 11:45:07 - INFO - Display image generated successfully.
+2025-04-02 11:45:07 - INFO - Display image generated successfully.
+2025-04-02 11:45:11 - INFO - Image displayed on e-paper successfully.
+2025-04-02 11:45:11 - INFO - Image displayed on e-paper successfully.
+2025-04-02 12:00:07 - INFO - Weather display script started.
+2025-04-02 12:00:07 - INFO - Weather display script started.
+2025-04-02 12:00:10 - INFO - Weather data fetched successfully.
+2025-04-02 12:00:10 - INFO - Weather data fetched successfully.
+2025-04-02 12:00:10 - INFO - Weather data processed successfully.
+2025-04-02 12:00:10 - INFO - Weather data processed successfully.
+2025-04-02 12:00:10 - INFO - Current data appended to CSV.
+2025-04-02 12:00:10 - INFO - Current data appended to CSV.
+2025-04-02 12:00:10 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-02 12:00:10 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-02 12:00:10 - INFO - Duplicate entries removed based on time.
+2025-04-02 12:00:10 - INFO - Duplicate entries removed based on time.
+2025-04-02 12:00:10 - INFO - Display image generated successfully.
+2025-04-02 12:00:10 - INFO - Display image generated successfully.
+2025-04-02 12:00:14 - INFO - Image displayed on e-paper successfully.
+2025-04-02 12:00:14 - INFO - Image displayed on e-paper successfully.
+2025-04-02 12:15:06 - INFO - Weather display script started.
+2025-04-02 12:15:06 - INFO - Weather display script started.
+2025-04-02 12:15:07 - INFO - Weather data fetched successfully.
+2025-04-02 12:15:07 - INFO - Weather data fetched successfully.
+2025-04-02 12:15:07 - INFO - Weather data processed successfully.
+2025-04-02 12:15:07 - INFO - Weather data processed successfully.
+2025-04-02 12:15:07 - INFO - Current data appended to CSV.
+2025-04-02 12:15:07 - INFO - Current data appended to CSV.
+2025-04-02 12:15:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-02 12:15:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-02 12:15:07 - INFO - Duplicate entries removed based on time.
+2025-04-02 12:15:07 - INFO - Duplicate entries removed based on time.
+2025-04-02 12:15:07 - INFO - Display image generated successfully.
+2025-04-02 12:15:07 - INFO - Display image generated successfully.
+2025-04-02 12:15:11 - INFO - Image displayed on e-paper successfully.
+2025-04-02 12:15:11 - INFO - Image displayed on e-paper successfully.
+2025-04-02 12:30:07 - INFO - Weather display script started.
+2025-04-02 12:30:07 - INFO - Weather display script started.
+2025-04-02 12:30:07 - INFO - Weather data fetched successfully.
+2025-04-02 12:30:07 - INFO - Weather data fetched successfully.
+2025-04-02 12:30:08 - INFO - Weather data processed successfully.
+2025-04-02 12:30:08 - INFO - Weather data processed successfully.
+2025-04-02 12:30:08 - INFO - Current data appended to CSV.
+2025-04-02 12:30:08 - INFO - Current data appended to CSV.
+2025-04-02 12:30:08 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-02 12:30:08 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-02 12:30:08 - INFO - Duplicate entries removed based on time.
+2025-04-02 12:30:08 - INFO - Duplicate entries removed based on time.
+2025-04-02 12:30:08 - INFO - Display image generated successfully.
+2025-04-02 12:30:08 - INFO - Display image generated successfully.
+2025-04-02 12:30:12 - INFO - Image displayed on e-paper successfully.
+2025-04-02 12:30:12 - INFO - Image displayed on e-paper successfully.
+2025-04-02 12:45:07 - INFO - Weather display script started.
+2025-04-02 12:45:07 - INFO - Weather display script started.
+2025-04-02 12:45:08 - INFO - Weather data fetched successfully.
+2025-04-02 12:45:08 - INFO - Weather data fetched successfully.
+2025-04-02 12:45:08 - INFO - Weather data processed successfully.
+2025-04-02 12:45:08 - INFO - Weather data processed successfully.
+2025-04-02 12:45:08 - INFO - Current data appended to CSV.
+2025-04-02 12:45:08 - INFO - Current data appended to CSV.
+2025-04-02 12:45:08 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-02 12:45:08 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-02 12:45:08 - INFO - Duplicate entries removed based on time.
+2025-04-02 12:45:08 - INFO - Duplicate entries removed based on time.
+2025-04-02 12:45:08 - INFO - Display image generated successfully.
+2025-04-02 12:45:08 - INFO - Display image generated successfully.
+2025-04-02 12:45:12 - INFO - Image displayed on e-paper successfully.
+2025-04-02 12:45:12 - INFO - Image displayed on e-paper successfully.
+2025-04-02 13:00:06 - INFO - Weather display script started.
+2025-04-02 13:00:06 - INFO - Weather display script started.
+2025-04-02 13:00:08 - INFO - Weather data fetched successfully.
+2025-04-02 13:00:08 - INFO - Weather data fetched successfully.
+2025-04-02 13:00:08 - INFO - Weather data processed successfully.
+2025-04-02 13:00:08 - INFO - Weather data processed successfully.
+2025-04-02 13:00:08 - INFO - Current data appended to CSV.
+2025-04-02 13:00:08 - INFO - Current data appended to CSV.
+2025-04-02 13:00:08 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-02 13:00:08 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-02 13:00:08 - INFO - Duplicate entries removed based on time.
+2025-04-02 13:00:08 - INFO - Duplicate entries removed based on time.
+2025-04-02 13:00:08 - INFO - Display image generated successfully.
+2025-04-02 13:00:08 - INFO - Display image generated successfully.
+2025-04-02 13:00:13 - INFO - Image displayed on e-paper successfully.
+2025-04-02 13:00:13 - INFO - Image displayed on e-paper successfully.
+2025-04-02 13:15:07 - INFO - Weather display script started.
+2025-04-02 13:15:07 - INFO - Weather display script started.
+2025-04-02 13:15:07 - INFO - Weather data fetched successfully.
+2025-04-02 13:15:07 - INFO - Weather data fetched successfully.
+2025-04-02 13:15:07 - INFO - Weather data processed successfully.
+2025-04-02 13:15:07 - INFO - Weather data processed successfully.
+2025-04-02 13:15:07 - INFO - Current data appended to CSV.
+2025-04-02 13:15:07 - INFO - Current data appended to CSV.
+2025-04-02 13:15:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-02 13:15:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-02 13:15:07 - INFO - Duplicate entries removed based on time.
+2025-04-02 13:15:07 - INFO - Duplicate entries removed based on time.
+2025-04-02 13:15:07 - INFO - Display image generated successfully.
+2025-04-02 13:15:07 - INFO - Display image generated successfully.
+2025-04-02 13:15:12 - INFO - Image displayed on e-paper successfully.
+2025-04-02 13:15:12 - INFO - Image displayed on e-paper successfully.
+2025-04-02 13:30:06 - INFO - Weather display script started.
+2025-04-02 13:30:06 - INFO - Weather display script started.
+2025-04-02 13:30:07 - INFO - Weather data fetched successfully.
+2025-04-02 13:30:07 - INFO - Weather data fetched successfully.
+2025-04-02 13:30:07 - INFO - Weather data processed successfully.
+2025-04-02 13:30:07 - INFO - Weather data processed successfully.
+2025-04-02 13:30:07 - INFO - Current data appended to CSV.
+2025-04-02 13:30:07 - INFO - Current data appended to CSV.
+2025-04-02 13:30:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-02 13:30:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-02 13:30:07 - INFO - Duplicate entries removed based on time.
+2025-04-02 13:30:07 - INFO - Duplicate entries removed based on time.
+2025-04-02 13:30:07 - INFO - Display image generated successfully.
+2025-04-02 13:30:07 - INFO - Display image generated successfully.
+2025-04-02 13:30:11 - INFO - Image displayed on e-paper successfully.
+2025-04-02 13:30:11 - INFO - Image displayed on e-paper successfully.
+2025-04-02 13:45:06 - INFO - Weather display script started.
+2025-04-02 13:45:06 - INFO - Weather display script started.
+2025-04-02 13:45:07 - INFO - Weather data fetched successfully.
+2025-04-02 13:45:07 - INFO - Weather data fetched successfully.
+2025-04-02 13:45:07 - INFO - Weather data processed successfully.
+2025-04-02 13:45:07 - INFO - Weather data processed successfully.
+2025-04-02 13:45:07 - INFO - Current data appended to CSV.
+2025-04-02 13:45:07 - INFO - Current data appended to CSV.
+2025-04-02 13:45:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-02 13:45:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-02 13:45:07 - INFO - Duplicate entries removed based on time.
+2025-04-02 13:45:07 - INFO - Duplicate entries removed based on time.
+2025-04-02 13:45:07 - INFO - Display image generated successfully.
+2025-04-02 13:45:07 - INFO - Display image generated successfully.
+2025-04-02 13:45:11 - INFO - Image displayed on e-paper successfully.
+2025-04-02 13:45:11 - INFO - Image displayed on e-paper successfully.
+2025-04-02 14:00:06 - INFO - Weather display script started.
+2025-04-02 14:00:06 - INFO - Weather display script started.
+2025-04-02 14:00:07 - INFO - Weather data fetched successfully.
+2025-04-02 14:00:07 - INFO - Weather data fetched successfully.
+2025-04-02 14:00:07 - INFO - Weather data processed successfully.
+2025-04-02 14:00:07 - INFO - Weather data processed successfully.
+2025-04-02 14:00:07 - INFO - Current data appended to CSV.
+2025-04-02 14:00:07 - INFO - Current data appended to CSV.
+2025-04-02 14:00:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-02 14:00:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-02 14:00:07 - INFO - Duplicate entries removed based on time.
+2025-04-02 14:00:07 - INFO - Duplicate entries removed based on time.
+2025-04-02 14:00:07 - INFO - Display image generated successfully.
+2025-04-02 14:00:07 - INFO - Display image generated successfully.
+2025-04-02 14:00:11 - INFO - Image displayed on e-paper successfully.
+2025-04-02 14:00:11 - INFO - Image displayed on e-paper successfully.
+2025-04-02 14:15:06 - INFO - Weather display script started.
+2025-04-02 14:15:06 - INFO - Weather display script started.
+2025-04-02 14:15:07 - INFO - Weather data fetched successfully.
+2025-04-02 14:15:07 - INFO - Weather data fetched successfully.
+2025-04-02 14:15:07 - INFO - Weather data processed successfully.
+2025-04-02 14:15:07 - INFO - Weather data processed successfully.
+2025-04-02 14:15:07 - INFO - Current data appended to CSV.
+2025-04-02 14:15:07 - INFO - Current data appended to CSV.
+2025-04-02 14:15:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-02 14:15:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-02 14:15:07 - INFO - Duplicate entries removed based on time.
+2025-04-02 14:15:07 - INFO - Duplicate entries removed based on time.
+2025-04-02 14:15:07 - INFO - Display image generated successfully.
+2025-04-02 14:15:07 - INFO - Display image generated successfully.
+2025-04-02 14:15:11 - INFO - Image displayed on e-paper successfully.
+2025-04-02 14:15:11 - INFO - Image displayed on e-paper successfully.
+2025-04-02 14:30:07 - INFO - Weather display script started.
+2025-04-02 14:30:07 - INFO - Weather display script started.
+2025-04-02 14:30:08 - INFO - Weather data fetched successfully.
+2025-04-02 14:30:08 - INFO - Weather data fetched successfully.
+2025-04-02 14:30:08 - INFO - Weather data processed successfully.
+2025-04-02 14:30:08 - INFO - Weather data processed successfully.
+2025-04-02 14:30:08 - INFO - Current data appended to CSV.
+2025-04-02 14:30:08 - INFO - Current data appended to CSV.
+2025-04-02 14:30:08 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-02 14:30:08 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-02 14:30:08 - INFO - Duplicate entries removed based on time.
+2025-04-02 14:30:08 - INFO - Duplicate entries removed based on time.
+2025-04-02 14:30:08 - INFO - Display image generated successfully.
+2025-04-02 14:30:08 - INFO - Display image generated successfully.
+2025-04-02 14:30:12 - INFO - Image displayed on e-paper successfully.
+2025-04-02 14:30:12 - INFO - Image displayed on e-paper successfully.
+2025-04-02 14:45:07 - INFO - Weather display script started.
+2025-04-02 14:45:07 - INFO - Weather display script started.
+2025-04-02 14:45:07 - INFO - Weather data fetched successfully.
+2025-04-02 14:45:07 - INFO - Weather data fetched successfully.
+2025-04-02 14:45:07 - INFO - Weather data processed successfully.
+2025-04-02 14:45:07 - INFO - Weather data processed successfully.
+2025-04-02 14:45:07 - INFO - Current data appended to CSV.
+2025-04-02 14:45:07 - INFO - Current data appended to CSV.
+2025-04-02 14:45:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-02 14:45:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-02 14:45:07 - INFO - Duplicate entries removed based on time.
+2025-04-02 14:45:07 - INFO - Duplicate entries removed based on time.
+2025-04-02 14:45:08 - INFO - Display image generated successfully.
+2025-04-02 14:45:08 - INFO - Display image generated successfully.
+2025-04-02 14:45:12 - INFO - Image displayed on e-paper successfully.
+2025-04-02 14:45:12 - INFO - Image displayed on e-paper successfully.
+2025-04-02 15:00:07 - INFO - Weather display script started.
+2025-04-02 15:00:07 - INFO - Weather display script started.
+2025-04-02 15:00:07 - INFO - Weather data fetched successfully.
+2025-04-02 15:00:07 - INFO - Weather data fetched successfully.
+2025-04-02 15:00:07 - INFO - Weather data processed successfully.
+2025-04-02 15:00:07 - INFO - Weather data processed successfully.
+2025-04-02 15:00:07 - INFO - Current data appended to CSV.
+2025-04-02 15:00:07 - INFO - Current data appended to CSV.
+2025-04-02 15:00:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-02 15:00:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-02 15:00:07 - INFO - Duplicate entries removed based on time.
+2025-04-02 15:00:07 - INFO - Duplicate entries removed based on time.
+2025-04-02 15:00:08 - INFO - Display image generated successfully.
+2025-04-02 15:00:08 - INFO - Display image generated successfully.
+2025-04-02 15:00:12 - INFO - Image displayed on e-paper successfully.
+2025-04-02 15:00:12 - INFO - Image displayed on e-paper successfully.
+2025-04-02 15:15:07 - INFO - Weather display script started.
+2025-04-02 15:15:07 - INFO - Weather display script started.
+2025-04-02 15:15:07 - INFO - Weather data fetched successfully.
+2025-04-02 15:15:07 - INFO - Weather data fetched successfully.
+2025-04-02 15:15:07 - INFO - Weather data processed successfully.
+2025-04-02 15:15:07 - INFO - Weather data processed successfully.
+2025-04-02 15:15:07 - INFO - Current data appended to CSV.
+2025-04-02 15:15:07 - INFO - Current data appended to CSV.
+2025-04-02 15:15:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-02 15:15:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-02 15:15:07 - INFO - Duplicate entries removed based on time.
+2025-04-02 15:15:07 - INFO - Duplicate entries removed based on time.
+2025-04-02 15:15:07 - INFO - Display image generated successfully.
+2025-04-02 15:15:07 - INFO - Display image generated successfully.
+2025-04-02 15:15:12 - INFO - Image displayed on e-paper successfully.
+2025-04-02 15:15:12 - INFO - Image displayed on e-paper successfully.
+2025-04-02 15:30:07 - INFO - Weather display script started.
+2025-04-02 15:30:07 - INFO - Weather display script started.
+2025-04-02 15:30:07 - INFO - Weather data fetched successfully.
+2025-04-02 15:30:07 - INFO - Weather data fetched successfully.
+2025-04-02 15:30:07 - INFO - Weather data processed successfully.
+2025-04-02 15:30:07 - INFO - Weather data processed successfully.
+2025-04-02 15:30:07 - INFO - Current data appended to CSV.
+2025-04-02 15:30:07 - INFO - Current data appended to CSV.
+2025-04-02 15:30:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-02 15:30:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-02 15:30:07 - INFO - Duplicate entries removed based on time.
+2025-04-02 15:30:07 - INFO - Duplicate entries removed based on time.
+2025-04-02 15:30:07 - INFO - Display image generated successfully.
+2025-04-02 15:30:07 - INFO - Display image generated successfully.
+2025-04-02 15:30:12 - INFO - Image displayed on e-paper successfully.
+2025-04-02 15:30:12 - INFO - Image displayed on e-paper successfully.
+2025-04-02 15:45:06 - INFO - Weather display script started.
+2025-04-02 15:45:06 - INFO - Weather display script started.
+2025-04-02 15:45:07 - INFO - Weather data fetched successfully.
+2025-04-02 15:45:07 - INFO - Weather data fetched successfully.
+2025-04-02 15:45:07 - INFO - Weather data processed successfully.
+2025-04-02 15:45:07 - INFO - Weather data processed successfully.
+2025-04-02 15:45:07 - INFO - Current data appended to CSV.
+2025-04-02 15:45:07 - INFO - Current data appended to CSV.
+2025-04-02 15:45:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-02 15:45:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-02 15:45:07 - INFO - Duplicate entries removed based on time.
+2025-04-02 15:45:07 - INFO - Duplicate entries removed based on time.
+2025-04-02 15:45:08 - INFO - Display image generated successfully.
+2025-04-02 15:45:08 - INFO - Display image generated successfully.
+2025-04-02 15:45:12 - INFO - Image displayed on e-paper successfully.
+2025-04-02 15:45:12 - INFO - Image displayed on e-paper successfully.
+2025-04-02 16:00:07 - INFO - Weather display script started.
+2025-04-02 16:00:07 - INFO - Weather display script started.
+2025-04-02 16:00:07 - INFO - Weather data fetched successfully.
+2025-04-02 16:00:07 - INFO - Weather data fetched successfully.
+2025-04-02 16:00:07 - INFO - Weather data processed successfully.
+2025-04-02 16:00:07 - INFO - Weather data processed successfully.
+2025-04-02 16:00:07 - INFO - Current data appended to CSV.
+2025-04-02 16:00:07 - INFO - Current data appended to CSV.
+2025-04-02 16:00:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-02 16:00:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-02 16:00:07 - INFO - Duplicate entries removed based on time.
+2025-04-02 16:00:07 - INFO - Duplicate entries removed based on time.
+2025-04-02 16:00:07 - INFO - Display image generated successfully.
+2025-04-02 16:00:07 - INFO - Display image generated successfully.
+2025-04-02 16:00:12 - INFO - Image displayed on e-paper successfully.
+2025-04-02 16:00:12 - INFO - Image displayed on e-paper successfully.
+2025-04-02 16:15:07 - INFO - Weather display script started.
+2025-04-02 16:15:07 - INFO - Weather display script started.
+2025-04-02 16:15:07 - INFO - Weather data fetched successfully.
+2025-04-02 16:15:07 - INFO - Weather data fetched successfully.
+2025-04-02 16:15:07 - INFO - Weather data processed successfully.
+2025-04-02 16:15:07 - INFO - Weather data processed successfully.
+2025-04-02 16:15:07 - INFO - Current data appended to CSV.
+2025-04-02 16:15:07 - INFO - Current data appended to CSV.
+2025-04-02 16:15:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-02 16:15:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-02 16:15:07 - INFO - Duplicate entries removed based on time.
+2025-04-02 16:15:07 - INFO - Duplicate entries removed based on time.
+2025-04-02 16:15:07 - INFO - Display image generated successfully.
+2025-04-02 16:15:07 - INFO - Display image generated successfully.
+2025-04-02 16:15:12 - INFO - Image displayed on e-paper successfully.
+2025-04-02 16:15:12 - INFO - Image displayed on e-paper successfully.
+2025-04-02 16:30:06 - INFO - Weather display script started.
+2025-04-02 16:30:06 - INFO - Weather display script started.
+2025-04-02 16:30:07 - INFO - Weather data fetched successfully.
+2025-04-02 16:30:07 - INFO - Weather data fetched successfully.
+2025-04-02 16:30:07 - INFO - Weather data processed successfully.
+2025-04-02 16:30:07 - INFO - Weather data processed successfully.
+2025-04-02 16:30:07 - INFO - Current data appended to CSV.
+2025-04-02 16:30:07 - INFO - Current data appended to CSV.
+2025-04-02 16:30:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-02 16:30:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-02 16:30:07 - INFO - Duplicate entries removed based on time.
+2025-04-02 16:30:07 - INFO - Duplicate entries removed based on time.
+2025-04-02 16:30:07 - INFO - Display image generated successfully.
+2025-04-02 16:30:07 - INFO - Display image generated successfully.
+2025-04-02 16:30:11 - INFO - Image displayed on e-paper successfully.
+2025-04-02 16:30:11 - INFO - Image displayed on e-paper successfully.
+2025-04-02 16:45:06 - INFO - Weather display script started.
+2025-04-02 16:45:06 - INFO - Weather display script started.
+2025-04-02 16:45:07 - INFO - Weather data fetched successfully.
+2025-04-02 16:45:07 - INFO - Weather data fetched successfully.
+2025-04-02 16:45:07 - INFO - Weather data processed successfully.
+2025-04-02 16:45:07 - INFO - Weather data processed successfully.
+2025-04-02 16:45:07 - INFO - Current data appended to CSV.
+2025-04-02 16:45:07 - INFO - Current data appended to CSV.
+2025-04-02 16:45:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-02 16:45:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-02 16:45:07 - INFO - Duplicate entries removed based on time.
+2025-04-02 16:45:07 - INFO - Duplicate entries removed based on time.
+2025-04-02 16:45:07 - INFO - Display image generated successfully.
+2025-04-02 16:45:07 - INFO - Display image generated successfully.
+2025-04-02 16:45:11 - INFO - Image displayed on e-paper successfully.
+2025-04-02 16:45:11 - INFO - Image displayed on e-paper successfully.
+2025-04-02 17:00:06 - INFO - Weather display script started.
+2025-04-02 17:00:06 - INFO - Weather display script started.
+2025-04-02 17:00:08 - INFO - Weather data fetched successfully.
+2025-04-02 17:00:08 - INFO - Weather data fetched successfully.
+2025-04-02 17:00:08 - INFO - Weather data processed successfully.
+2025-04-02 17:00:08 - INFO - Weather data processed successfully.
+2025-04-02 17:00:08 - INFO - Current data appended to CSV.
+2025-04-02 17:00:08 - INFO - Current data appended to CSV.
+2025-04-02 17:00:08 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-02 17:00:08 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-02 17:00:08 - INFO - Duplicate entries removed based on time.
+2025-04-02 17:00:08 - INFO - Duplicate entries removed based on time.
+2025-04-02 17:00:09 - INFO - Display image generated successfully.
+2025-04-02 17:00:09 - INFO - Display image generated successfully.
+2025-04-02 17:00:13 - INFO - Image displayed on e-paper successfully.
+2025-04-02 17:00:13 - INFO - Image displayed on e-paper successfully.
+2025-04-02 17:15:07 - INFO - Weather display script started.
+2025-04-02 17:15:07 - INFO - Weather display script started.
+2025-04-02 17:15:07 - INFO - Weather data fetched successfully.
+2025-04-02 17:15:07 - INFO - Weather data fetched successfully.
+2025-04-02 17:15:07 - INFO - Weather data processed successfully.
+2025-04-02 17:15:07 - INFO - Weather data processed successfully.
+2025-04-02 17:15:07 - INFO - Current data appended to CSV.
+2025-04-02 17:15:07 - INFO - Current data appended to CSV.
+2025-04-02 17:15:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-02 17:15:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-02 17:15:07 - INFO - Duplicate entries removed based on time.
+2025-04-02 17:15:07 - INFO - Duplicate entries removed based on time.
+2025-04-02 17:15:07 - INFO - Display image generated successfully.
+2025-04-02 17:15:07 - INFO - Display image generated successfully.
+2025-04-02 17:15:12 - INFO - Image displayed on e-paper successfully.
+2025-04-02 17:15:12 - INFO - Image displayed on e-paper successfully.
+2025-04-02 17:30:07 - INFO - Weather display script started.
+2025-04-02 17:30:07 - INFO - Weather display script started.
+2025-04-02 17:30:07 - INFO - Weather data fetched successfully.
+2025-04-02 17:30:07 - INFO - Weather data fetched successfully.
+2025-04-02 17:30:07 - INFO - Weather data processed successfully.
+2025-04-02 17:30:07 - INFO - Weather data processed successfully.
+2025-04-02 17:30:07 - INFO - Current data appended to CSV.
+2025-04-02 17:30:07 - INFO - Current data appended to CSV.
+2025-04-02 17:30:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-02 17:30:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-02 17:30:07 - INFO - Duplicate entries removed based on time.
+2025-04-02 17:30:07 - INFO - Duplicate entries removed based on time.
+2025-04-02 17:30:07 - INFO - Display image generated successfully.
+2025-04-02 17:30:07 - INFO - Display image generated successfully.
+2025-04-02 17:30:12 - INFO - Image displayed on e-paper successfully.
+2025-04-02 17:30:12 - INFO - Image displayed on e-paper successfully.
+2025-04-02 17:45:06 - INFO - Weather display script started.
+2025-04-02 17:45:06 - INFO - Weather display script started.
+2025-04-02 17:45:08 - INFO - Weather data fetched successfully.
+2025-04-02 17:45:08 - INFO - Weather data fetched successfully.
+2025-04-02 17:45:08 - INFO - Weather data processed successfully.
+2025-04-02 17:45:08 - INFO - Weather data processed successfully.
+2025-04-02 17:45:08 - INFO - Current data appended to CSV.
+2025-04-02 17:45:08 - INFO - Current data appended to CSV.
+2025-04-02 17:45:08 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-02 17:45:08 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-02 17:45:08 - INFO - Duplicate entries removed based on time.
+2025-04-02 17:45:08 - INFO - Duplicate entries removed based on time.
+2025-04-02 17:45:08 - INFO - Display image generated successfully.
+2025-04-02 17:45:08 - INFO - Display image generated successfully.
+2025-04-02 17:45:12 - INFO - Image displayed on e-paper successfully.
+2025-04-02 17:45:12 - INFO - Image displayed on e-paper successfully.
+2025-04-02 17:55:51 - INFO - Weather display script started.
+2025-04-02 17:55:51 - INFO - Weather data fetched successfully.
+2025-04-02 17:55:51 - INFO - Weather data processed successfully.
+2025-04-02 17:55:51 - ERROR - An unexpected error occurred: 'str' object cannot be interpreted as an integer
+2025-04-02 18:00:07 - INFO - Weather display script started.
+2025-04-02 18:00:07 - INFO - Weather display script started.
+2025-04-02 18:00:08 - INFO - Weather data fetched successfully.
+2025-04-02 18:00:08 - INFO - Weather data fetched successfully.
+2025-04-02 18:00:08 - INFO - Weather data processed successfully.
+2025-04-02 18:00:08 - INFO - Weather data processed successfully.
+2025-04-02 18:00:08 - ERROR - An unexpected error occurred: 'str' object cannot be interpreted as an integer
+2025-04-02 18:00:08 - ERROR - An unexpected error occurred: 'str' object cannot be interpreted as an integer
+2025-04-02 18:00:31 - INFO - Weather display script started.
+2025-04-02 18:00:31 - INFO - Weather data fetched successfully.
+2025-04-02 18:00:31 - INFO - Weather data processed successfully.
+2025-04-02 18:00:31 - INFO - Current data appended to CSV.
+2025-04-02 18:00:31 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-02 18:00:31 - INFO - Duplicate entries removed based on time.
+2025-04-02 18:00:31 - INFO - Display image generated successfully.
+2025-04-02 18:00:35 - INFO - Image displayed on e-paper successfully.
+2025-04-02 18:15:07 - INFO - Weather display script started.
+2025-04-02 18:15:07 - INFO - Weather display script started.
+2025-04-02 18:15:07 - INFO - Weather data fetched successfully.
+2025-04-02 18:15:07 - INFO - Weather data fetched successfully.
+2025-04-02 18:15:07 - INFO - Weather data processed successfully.
+2025-04-02 18:15:07 - INFO - Weather data processed successfully.
+2025-04-02 18:15:07 - INFO - Current data appended to CSV.
+2025-04-02 18:15:07 - INFO - Current data appended to CSV.
+2025-04-02 18:15:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-02 18:15:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-02 18:15:07 - INFO - Duplicate entries removed based on time.
+2025-04-02 18:15:07 - INFO - Duplicate entries removed based on time.
+2025-04-02 18:15:08 - INFO - Display image generated successfully.
+2025-04-02 18:15:08 - INFO - Display image generated successfully.
+2025-04-02 18:15:12 - INFO - Image displayed on e-paper successfully.
+2025-04-02 18:15:12 - INFO - Image displayed on e-paper successfully.
+2025-04-02 18:30:07 - INFO - Weather display script started.
+2025-04-02 18:30:07 - INFO - Weather display script started.
+2025-04-02 18:30:07 - INFO - Weather data fetched successfully.
+2025-04-02 18:30:07 - INFO - Weather data fetched successfully.
+2025-04-02 18:30:07 - INFO - Weather data processed successfully.
+2025-04-02 18:30:07 - INFO - Weather data processed successfully.
+2025-04-02 18:30:07 - INFO - Current data appended to CSV.
+2025-04-02 18:30:07 - INFO - Current data appended to CSV.
+2025-04-02 18:30:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-02 18:30:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-02 18:30:07 - INFO - Duplicate entries removed based on time.
+2025-04-02 18:30:07 - INFO - Duplicate entries removed based on time.
+2025-04-02 18:30:07 - INFO - Display image generated successfully.
+2025-04-02 18:30:07 - INFO - Display image generated successfully.
+2025-04-02 18:30:12 - INFO - Image displayed on e-paper successfully.
+2025-04-02 18:30:12 - INFO - Image displayed on e-paper successfully.
+2025-04-02 18:45:08 - INFO - Weather display script started.
+2025-04-02 18:45:08 - INFO - Weather display script started.
+2025-04-02 18:45:09 - INFO - Weather data fetched successfully.
+2025-04-02 18:45:09 - INFO - Weather data fetched successfully.
+2025-04-02 18:45:09 - INFO - Weather data processed successfully.
+2025-04-02 18:45:09 - INFO - Weather data processed successfully.
+2025-04-02 18:45:09 - INFO - Current data appended to CSV.
+2025-04-02 18:45:09 - INFO - Current data appended to CSV.
+2025-04-02 18:45:09 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-02 18:45:09 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-02 18:45:09 - INFO - Duplicate entries removed based on time.
+2025-04-02 18:45:09 - INFO - Duplicate entries removed based on time.
+2025-04-02 18:45:09 - INFO - Display image generated successfully.
+2025-04-02 18:45:09 - INFO - Display image generated successfully.
+2025-04-02 18:45:15 - INFO - Image displayed on e-paper successfully.
+2025-04-02 18:45:15 - INFO - Image displayed on e-paper successfully.
+2025-04-02 18:46:37 - INFO - Weather display script started.
+2025-04-02 18:46:38 - INFO - Weather data fetched successfully.
+2025-04-02 18:46:38 - INFO - Weather data processed successfully.
+2025-04-02 18:46:38 - INFO - Current data appended to CSV.
+2025-04-02 18:46:38 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-02 18:46:38 - INFO - Duplicate entries removed based on time.
+2025-04-02 18:46:38 - INFO - Display image generated successfully.
+2025-04-02 18:46:42 - INFO - Image displayed on e-paper successfully.
+2025-04-02 19:00:07 - INFO - Weather display script started.
+2025-04-02 19:00:07 - INFO - Weather display script started.
+2025-04-02 19:00:09 - INFO - Weather data fetched successfully.
+2025-04-02 19:00:09 - INFO - Weather data fetched successfully.
+2025-04-02 19:00:09 - INFO - Weather data processed successfully.
+2025-04-02 19:00:09 - INFO - Weather data processed successfully.
+2025-04-02 19:00:09 - INFO - Current data appended to CSV.
+2025-04-02 19:00:09 - INFO - Current data appended to CSV.
+2025-04-02 19:00:09 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-02 19:00:09 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-02 19:00:09 - INFO - Duplicate entries removed based on time.
+2025-04-02 19:00:09 - INFO - Duplicate entries removed based on time.
+2025-04-02 19:00:09 - INFO - Display image generated successfully.
+2025-04-02 19:00:09 - INFO - Display image generated successfully.
+2025-04-02 19:00:13 - INFO - Image displayed on e-paper successfully.
+2025-04-02 19:00:13 - INFO - Image displayed on e-paper successfully.
+2025-04-02 19:15:07 - INFO - Weather display script started.
+2025-04-02 19:15:07 - INFO - Weather display script started.
+2025-04-02 19:15:08 - INFO - Weather data fetched successfully.
+2025-04-02 19:15:08 - INFO - Weather data fetched successfully.
+2025-04-02 19:15:08 - INFO - Weather data processed successfully.
+2025-04-02 19:15:08 - INFO - Weather data processed successfully.
+2025-04-02 19:15:08 - INFO - Current data appended to CSV.
+2025-04-02 19:15:08 - INFO - Current data appended to CSV.
+2025-04-02 19:15:08 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-02 19:15:08 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-02 19:15:08 - INFO - Duplicate entries removed based on time.
+2025-04-02 19:15:08 - INFO - Duplicate entries removed based on time.
+2025-04-02 19:15:08 - INFO - Display image generated successfully.
+2025-04-02 19:15:08 - INFO - Display image generated successfully.
+2025-04-02 19:15:12 - INFO - Image displayed on e-paper successfully.
+2025-04-02 19:15:12 - INFO - Image displayed on e-paper successfully.
+2025-04-02 19:30:08 - INFO - Weather display script started.
+2025-04-02 19:30:08 - INFO - Weather display script started.
+2025-04-02 19:30:08 - INFO - Weather data fetched successfully.
+2025-04-02 19:30:08 - INFO - Weather data fetched successfully.
+2025-04-02 19:30:08 - INFO - Weather data processed successfully.
+2025-04-02 19:30:08 - INFO - Weather data processed successfully.
+2025-04-02 19:30:08 - INFO - Current data appended to CSV.
+2025-04-02 19:30:08 - INFO - Current data appended to CSV.
+2025-04-02 19:30:08 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-02 19:30:08 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-02 19:30:08 - INFO - Duplicate entries removed based on time.
+2025-04-02 19:30:08 - INFO - Duplicate entries removed based on time.
+2025-04-02 19:30:08 - INFO - Display image generated successfully.
+2025-04-02 19:30:08 - INFO - Display image generated successfully.
+2025-04-02 19:30:13 - INFO - Image displayed on e-paper successfully.
+2025-04-02 19:30:13 - INFO - Image displayed on e-paper successfully.
+2025-04-02 20:15:07 - INFO - Weather display script started.
+2025-04-02 20:15:07 - INFO - Weather display script started.
+2025-04-02 20:15:07 - INFO - Weather data fetched successfully.
+2025-04-02 20:15:07 - INFO - Weather data fetched successfully.
+2025-04-02 20:15:07 - INFO - Weather data processed successfully.
+2025-04-02 20:15:07 - INFO - Weather data processed successfully.
+2025-04-02 20:15:07 - INFO - Current data appended to CSV.
+2025-04-02 20:15:07 - INFO - Current data appended to CSV.
+2025-04-02 20:15:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-02 20:15:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-02 20:15:07 - INFO - Duplicate entries removed based on time.
+2025-04-02 20:15:07 - INFO - Duplicate entries removed based on time.
+2025-04-02 20:15:07 - INFO - Display image generated successfully.
+2025-04-02 20:15:07 - INFO - Display image generated successfully.
+2025-04-02 20:15:12 - INFO - Image displayed on e-paper successfully.
+2025-04-02 20:15:12 - INFO - Image displayed on e-paper successfully.
+2025-04-02 20:30:07 - INFO - Weather display script started.
+2025-04-02 20:30:07 - INFO - Weather display script started.
+2025-04-02 20:30:07 - INFO - Weather data fetched successfully.
+2025-04-02 20:30:07 - INFO - Weather data fetched successfully.
+2025-04-02 20:30:07 - INFO - Weather data processed successfully.
+2025-04-02 20:30:07 - INFO - Weather data processed successfully.
+2025-04-02 20:30:07 - INFO - Current data appended to CSV.
+2025-04-02 20:30:07 - INFO - Current data appended to CSV.
+2025-04-02 20:30:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-02 20:30:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-02 20:30:07 - INFO - Duplicate entries removed based on time.
+2025-04-02 20:30:07 - INFO - Duplicate entries removed based on time.
+2025-04-02 20:30:07 - INFO - Display image generated successfully.
+2025-04-02 20:30:07 - INFO - Display image generated successfully.
+2025-04-02 20:30:12 - INFO - Image displayed on e-paper successfully.
+2025-04-02 20:30:12 - INFO - Image displayed on e-paper successfully.
+2025-04-02 20:45:07 - INFO - Weather display script started.
+2025-04-02 20:45:07 - INFO - Weather display script started.
+2025-04-02 20:45:07 - INFO - Weather data fetched successfully.
+2025-04-02 20:45:07 - INFO - Weather data fetched successfully.
+2025-04-02 20:45:07 - INFO - Weather data processed successfully.
+2025-04-02 20:45:07 - INFO - Weather data processed successfully.
+2025-04-02 20:45:07 - INFO - Current data appended to CSV.
+2025-04-02 20:45:07 - INFO - Current data appended to CSV.
+2025-04-02 20:45:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-02 20:45:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-02 20:45:07 - INFO - Duplicate entries removed based on time.
+2025-04-02 20:45:07 - INFO - Duplicate entries removed based on time.
+2025-04-02 20:45:07 - INFO - Display image generated successfully.
+2025-04-02 20:45:07 - INFO - Display image generated successfully.
+2025-04-02 20:45:12 - INFO - Image displayed on e-paper successfully.
+2025-04-02 20:45:12 - INFO - Image displayed on e-paper successfully.
+2025-04-02 21:00:06 - INFO - Weather display script started.
+2025-04-02 21:00:06 - INFO - Weather display script started.
+2025-04-02 21:00:08 - INFO - Weather data fetched successfully.
+2025-04-02 21:00:08 - INFO - Weather data fetched successfully.
+2025-04-02 21:00:09 - INFO - Weather data processed successfully.
+2025-04-02 21:00:09 - INFO - Weather data processed successfully.
+2025-04-02 21:00:09 - INFO - Current data appended to CSV.
+2025-04-02 21:00:09 - INFO - Current data appended to CSV.
+2025-04-02 21:00:09 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-02 21:00:09 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-02 21:00:09 - INFO - Duplicate entries removed based on time.
+2025-04-02 21:00:09 - INFO - Duplicate entries removed based on time.
+2025-04-02 21:00:09 - INFO - Display image generated successfully.
+2025-04-02 21:00:09 - INFO - Display image generated successfully.
+2025-04-02 21:00:13 - INFO - Image displayed on e-paper successfully.
+2025-04-02 21:00:13 - INFO - Image displayed on e-paper successfully.
+2025-04-02 21:15:07 - INFO - Weather display script started.
+2025-04-02 21:15:07 - INFO - Weather display script started.
+2025-04-02 21:15:07 - INFO - Weather data fetched successfully.
+2025-04-02 21:15:07 - INFO - Weather data fetched successfully.
+2025-04-02 21:15:07 - INFO - Weather data processed successfully.
+2025-04-02 21:15:07 - INFO - Weather data processed successfully.
+2025-04-02 21:15:07 - INFO - Current data appended to CSV.
+2025-04-02 21:15:07 - INFO - Current data appended to CSV.
+2025-04-02 21:15:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-02 21:15:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-02 21:15:07 - INFO - Duplicate entries removed based on time.
+2025-04-02 21:15:07 - INFO - Duplicate entries removed based on time.
+2025-04-02 21:15:08 - INFO - Display image generated successfully.
+2025-04-02 21:15:08 - INFO - Display image generated successfully.
+2025-04-02 21:15:12 - INFO - Image displayed on e-paper successfully.
+2025-04-02 21:15:12 - INFO - Image displayed on e-paper successfully.
+2025-04-02 21:30:07 - INFO - Weather display script started.
+2025-04-02 21:30:07 - INFO - Weather display script started.
+2025-04-02 21:30:07 - INFO - Weather data fetched successfully.
+2025-04-02 21:30:07 - INFO - Weather data fetched successfully.
+2025-04-02 21:30:07 - INFO - Weather data processed successfully.
+2025-04-02 21:30:07 - INFO - Weather data processed successfully.
+2025-04-02 21:30:07 - INFO - Current data appended to CSV.
+2025-04-02 21:30:07 - INFO - Current data appended to CSV.
+2025-04-02 21:30:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-02 21:30:07 - INFO - Hourly forecast data appeneded to CSV.
+2025-04-02 21:30:07 - INFO - Duplicate entries removed based on time.
+2025-04-02 21:30:07 - INFO - Duplicate entries removed based on time.
+2025-04-02 21:30:08 - INFO - Display image generated successfully.
+2025-04-02 21:30:08 - INFO - Display image generated successfully.
+2025-04-02 21:30:12 - INFO - Image displayed on e-paper successfully.
+2025-04-02 21:30:12 - INFO - Image displayed on e-paper successfully.
